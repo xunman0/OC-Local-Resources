@@ -1,0 +1,8 @@
+# Internal working notes: keep local, never publish
+99-Sources-and-Verification/
+
+# Obsidian app settings and workspace state
+.obsidian/
+
+# Archives
+*.zip
