@@ -1,0 +1,110 @@
+---
+title: Food Pantries in Costa Mesa, Orange County, CA
+type: city-pantry-list
+city: Costa Mesa
+region: Orange County, CA
+zip_codes: [92627]
+last_verified: 2026-09-14
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025)]
+tags: [food-pantry, costa-mesa, orange-county]
+---
+
+# Food Pantries in Costa Mesa
+
+**Last verified:** 2026-09-14, from the Second Harvest Food Bank of Orange County partner list. Pantry hours change often, so always call ahead or check with 211 OC (dial 2-1-1).
+
+> [!important] Call before you go
+> Hours change often, and some sites serve only residents, enrolled children, or registered clients. Call the site or dial 2-1-1 before making the trip.
+
+## Quick Summary
+
+This file lists 6 sites in Costa Mesa from the Second Harvest partner list: 2 community food pantries, 3 school-site distributions, 1 senior grocery site.
+
+- **Days with food distribution (excluding kids meal sites):** Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
+- **Weekend options:** Christ Lutheran Church and School
+- **Evening options (open past 5 PM):** None listed
+
+## Community Food Pantries
+
+Churches, nonprofits, and community centers that hand out groceries.
+
+### Christ Lutheran Church and School
+- **Address:** 760 Victoria St., Costa Mesa 92627
+- **Days and hours:**
+  - 2nd Saturday of the month: 10:00 AM–12:00 PM
+- **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County
+- **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
+
+### Share Ourselves (S.O.S)
+- **Address:** 1550 Superior Ave., Costa Mesa 92627
+- **Phone:** 949-270-2100 (from Westminster FRC flyer)
+- **Days and hours:**
+  - Every Monday: 8:00 AM–5:00 PM
+  - Every Tuesday: 8:00 AM–5:00 PM
+  - Every Wednesday: 8:00 AM–12:00 PM and 2:00 PM–5:00 PM
+  - Every Thursday: 8:00 AM–5:00 PM
+  - Every Friday: 8:00 AM–5:00 PM
+- **Notes from source:** no choice; walk-up
+- **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
+- **Requirement (Westminster FRC flyer):** Registration forms required
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County
+- **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
+- **Also listed on the Westminster FRC flyer (Oct 2025):**
+  - Listed as: SOS Community Health Center
+  - Monday–Friday: 8:00 AM–4:30 PM; Wednesday closed 12:00–2:00 PM
+  - Requirement: Registration forms required
+  - **Hours differ between the two sources.** The Second Harvest list is newer, so its hours are shown first. Call ahead to confirm.
+
+## School-Site Distributions
+
+Food distributions held at schools. Check with the school or call ahead about who can attend.
+
+### Rea Elementary School
+- **Address:** 661 Hamilton St, Costa Mesa 92627
+- **Days and hours:**
+  - 4th Wednesday of the month: 10:15 AM–11:15 AM
+- **Who can use it:** School-site distributions may be limited to families at that school.
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County
+- **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
+
+### Whittier Elementary School
+- **Address:** 1800 Whittier Ave, Costa Mesa 92627
+- **Days and hours:**
+  - 2nd Wednesday of the month: 10:15 AM–11:15 AM
+- **Who can use it:** School-site distributions may be limited to families at that school.
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County
+- **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
+
+### Wilson Elementary School
+- **Address:** 801 W. Wilson St., Costa Mesa 92627
+- **Days and hours:**
+  - 3rd Wednesday of the month: 10:15 AM–11:15 AM
+- **Who can use it:** School-site distributions may be limited to families at that school.
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County
+- **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
+
+## Senior Grocery Sites
+
+Sites marked "SG" in the source list run a Senior Grocery program, some also with TEFAP (The Emergency Food Assistance Program). Call to confirm age and income rules.
+
+### Costa Mesa Senior Center SG
+- **Address:** 695 W. 19th St., Costa Mesa 92627
+- **Days and hours:**
+  - 2nd & 4th Fridays of the month: 9:30 AM–10:30 AM
+- **Notes from source:** Senior Grocery
+- **Who can use it:** Senior Grocery program. Age and income rules may apply.
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County
+- **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
+
+## If Nothing Here Works
+
+- Dial **2-1-1** to reach 211 OC for current listings.
+- See [[01-How-to-Get-Food-Now]] for same-day options.
+- See [[CalFresh]] for ongoing grocery benefits.
