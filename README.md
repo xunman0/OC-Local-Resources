@@ -22,11 +22,12 @@ Start with `03-Pantries-by-City/_Index.md` for a list of all cities.
 | Second Harvest Food Bank of Orange County partner list | As of 09/14/2026 |
 | City of Westminster FRC "Local Food Pantries" flyer | Undated; file created 10/29/2025 |
 | Community Action Partnership of Orange County (CAP OC) Diaper Bank partner list | Read from capoc.org on 10/03/2026 |
+| Individual organization websites (used to check conflicts and fix errors) | Checked 10/03/2026 |
 
 Each site entry names its source. When two sources disagree, the newer source is shown first and the other version is listed underneath, marked as a conflict.
 
 ## Please Keep in Mind
-- This information is copied from the sources above and has **not** been confirmed with each site.
+- Most of this information is copied from the sources above and has **not** been confirmed with each site. Entries marked ✅ were checked on the organization's own website.
 - Some details in the source lists appear to be typos or out of date. These are being checked.
 - Notes like "may be for residents only" are cautious guesses based on the site's name, not confirmed rules.
 - Nothing here is a guarantee of service. Sites may change hours, run out of supplies, or close without notice.
