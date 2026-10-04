@@ -3,9 +3,9 @@ title: Food Pantries in San Clemente, Orange County, CA
 type: city-pantry-list
 city: San Clemente
 region: Orange County, CA
-zip_codes: [92672]
+zip_codes: [92672, 92673]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); organization websites checked 2026-10-03]
 tags: [food-pantry, san-clemente, orange-county]
 ---
 
@@ -18,9 +18,9 @@ tags: [food-pantry, san-clemente, orange-county]
 
 ## Quick Summary
 
-This file lists 6 sites in San Clemente from the Second Harvest partner list: 2 community food pantries, 3 senior grocery sites, 1 kids meal site.
+This file lists 7 sites in San Clemente (1 from organization websites, the rest from the Second Harvest partner list): 3 community food pantries, 3 senior grocery sites, 1 kids meal site.
 
-- **Days with food distribution (excluding kids meal sites):** Monday, Wednesday, Thursday, Saturday
+- **Days with food distribution (excluding kids meal sites):** Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
 - **Weekend options:** COA - Community Outreach Alliance
 - **Evening options (open past 5 PM):** None listed
 
@@ -48,6 +48,20 @@ Churches, nonprofits, and community centers that hand out groceries.
 - **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
 - **Partner of:** Second Harvest Food Bank of Orange County
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
+
+### FAM - Family Assistance Ministries (Headquarters)
+- **Address:** 1000 Calle Cordillera, San Clemente 92673
+- **Phone:** 949-492-8477
+- **Days and hours:**
+  - Every Monday: 10:00 AM–2:45 PM
+  - Every Tuesday: 10:00 AM–2:45 PM
+  - Every Wednesday: 10:00 AM–2:45 PM
+  - Every Thursday: 10:00 AM–2:45 PM
+  - Every Friday: 10:00 AM–2:45 PM
+- **Notes:** First-time clients should arrive before 2 PM to register. Also gives out baby diapers, wipes, and formula.
+- **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
+- **Source:** FAM website (lovefam.org), checked 2026-10-03. Not on the Second Harvest partner list dated 09/14/2026.
 
 ## Senior Grocery Sites
 

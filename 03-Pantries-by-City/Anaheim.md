@@ -3,9 +3,9 @@ title: Food Pantries in Anaheim, Orange County, CA
 type: city-pantry-list
 city: Anaheim
 region: Orange County, CA
-zip_codes: [92707, 92801, 92802, 92804, 92805, 92806, 92807]
+zip_codes: [92801, 92802, 92804, 92805, 92806, 92807]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); organization websites checked 2026-10-03]
 tags: [food-pantry, anaheim, orange-county]
 ---
 
@@ -87,7 +87,11 @@ Churches, nonprofits, and community centers that hand out groceries.
 
 ### Mariners Church - Anaheim
 - **Address:** 2536 W Woodland Dr, Anaheim 92801
-- **Days and hours:**
+- **Phone:** 949-769-8131
+- **✅ Checked on the organization's website (2026-10-03): Confirmed**
+  - Mondays 6:30–8:30 PM. Choice-based pantry.
+  - Source: marinerschurch.org/food-pantry-thrift-store
+- **Days and hours (Second Harvest list):**
   - Every Monday: 6:30 PM–8:30 PM
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
 - **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
@@ -562,8 +566,10 @@ Sites marked "PIM" in the source list host a Park-it Market distribution.
 Sites marked "KC" in the source list. Unless the note says otherwise, these serve meals for children 18 and under.
 
 ### Anaheim Independencia KC
-- **Address:** 10841 Garza Ave, Anaheim 92707
-- **Days and hours:**
+- **Address:** 10841 Garza Ave, Anaheim 92804 (corrected from 92707)
+- **✅ Checked on the organization's website (2026-10-03): Address corrected**
+  - ZIP confirmed as 92804 (CAP OC and resource center listings).
+- **Days and hours (Second Harvest list):**
   - Every Tuesday: 3:00 PM–3:30 PM
   - Every Thursday: 3:00 PM–3:30 PM
 - **Notes from source:** Meals for children 18 and under

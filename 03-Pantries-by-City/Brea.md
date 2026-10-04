@@ -5,7 +5,7 @@ city: Brea
 region: Orange County, CA
 zip_codes: [92821]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); organization websites checked 2026-10-03]
 tags: [food-pantry, brea, orange-county]
 ---
 
@@ -69,7 +69,12 @@ Churches, nonprofits, and community centers that hand out groceries.
 
 ### Southlands Church
 - **Address:** 2950 E Imperial Hwy, Brea 92821
-- **Days and hours:**
+- **Phone:** 714-982-5055
+- **✅ Checked on the organization's website (2026-10-03): Partly confirmed**
+  - The church describes food distribution as **monthly**, with dates posted in the church app.
+  - Another listing says the 4th Saturday, 8:00 AM–12:00 PM. Call before going.
+  - Source: brea.southlands.net
+- **Days and hours (Second Harvest list):**
   - 4th Saturday of the month: 9:30 AM–10:30 AM
 - **Notes from source:** 1st Saturdays 9:30pm-10:30pm, only on holidays
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.

@@ -5,7 +5,7 @@ city: Midway City
 region: Orange County, CA
 zip_codes: [92655]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025)]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025); organization websites checked 2026-10-03]
 tags: [food-pantry, midway-city, orange-county]
 ---
 
@@ -31,7 +31,11 @@ Churches, nonprofits, and community centers that hand out groceries.
 ### Abrazar - Midway City Community Center
 - **Address:** 14900 Park Ln, Midway City 92655
 - **Phone:** 714-893-3581 (from Westminster FRC flyer)
-- **Days and hours:**
+- **✅ Checked on the organization's website (2026-10-03): Address confirmed; food hours not confirmed**
+  - Address confirmed as 14900 Park Lane, Midway City (Abrazar website). The flyer's "Westminster" address is the mailing area, not the city.
+  - Center hours (not food hours): Monday & Thursday 8:30 AM–8:00 PM; Tuesday, Wednesday, Friday 8:30 AM–5:00 PM.
+  - The food distribution schedule page on the website is broken. Call 714-893-3581 for food times.
+- **Days and hours (Second Harvest list):**
   - Every Tuesday: 11:30 AM–1:30 PM
   - Every Thursday: 11:30 AM–1:30 PM
   - Every Friday: 12:00 PM–2:00 PM
@@ -46,7 +50,7 @@ Churches, nonprofits, and community centers that hand out groceries.
   - Tuesday: get a number at 7:30 AM; opens 10:30 AM
   - Thursday: get a number at 8:00 AM; opens 11:00 AM
   - Requirement: Registration forms
-  - **Hours differ between the two sources.** The Second Harvest list is newer, so its hours are shown first. Call ahead to confirm.
+  - The difference between sources was checked on the website. See the ✅ section above.
 
 ## If Nothing Here Works
 

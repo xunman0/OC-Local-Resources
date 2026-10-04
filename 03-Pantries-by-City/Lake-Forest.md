@@ -5,7 +5,7 @@ city: Lake Forest
 region: Orange County, CA
 zip_codes: [92630]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); organization websites checked 2026-10-03]
 tags: [food-pantry, lake-forest, orange-county]
 ---
 
@@ -39,7 +39,12 @@ Churches, nonprofits, and community centers that hand out groceries.
 
 ### South County Outreach - The Outreach
 - **Address:** 23661 Birtcher Dr., Lake Forest 92630
-- **Days and hours:**
+- **Phone:** 949-380-8144
+- **✅ Checked on the organization's website (2026-10-03): Confirmed**
+  - Food pantry: 23661 Birtcher Dr., Lake Forest, **Monday–Thursday 9:00 AM–2:00 PM**.
+  - Main office (not the pantry): 7 Whatney, Suite B, Irvine 92618.
+  - Source: sco-oc.org
+- **Days and hours (Second Harvest list):**
   - Every Monday: 9:00 AM–2:00 PM
   - Every Tuesday: 9:00 AM–2:00 PM
   - Every Wednesday: 9:00 AM–2:00 PM

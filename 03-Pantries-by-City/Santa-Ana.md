@@ -5,7 +5,7 @@ city: Santa Ana
 region: Orange County, CA
 zip_codes: [92701, 92703, 92704, 92705, 92706, 92707]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025)]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025); organization websites checked 2026-10-03]
 tags: [food-pantry, santa-ana, orange-county]
 ---
 
@@ -50,7 +50,13 @@ Churches, nonprofits, and community centers that hand out groceries.
 ### Catholic Charities of Orange County
 - **Address:** 2020 W. Chestnut Ave, Santa Ana 92703
 - **Phone:** 714-347-9696 (from Westminster FRC flyer)
-- **Days and hours:**
+- **✅ Checked on the organization's website (2026-10-03): Confirmed**
+  - Site name: Cantlay Food Distribution Center.
+  - Food: Tuesday, Wednesday, Thursday 7:30 AM–12:00 PM.
+  - Children's diapers (ages 0–5): Tuesday, Wednesday, Thursday 1:00–3:00 PM.
+  - Catholic Charities main phone: 714-347-9602.
+  - Source: ccoc.org (page dated May 2026)
+- **Days and hours (Second Harvest list):**
   - Every Tuesday: 7:30 AM–12:00 PM
   - Every Wednesday: 7:30 AM–12:00 PM
   - Every Thursday: 7:30 AM–12:00 PM
@@ -106,7 +112,11 @@ Churches, nonprofits, and community centers that hand out groceries.
 ### Delhi Center
 - **Address:** 505 E. Central Ave, Santa Ana 92707
 - **Phone:** 714-481-9600 (from Westminster FRC flyer)
-- **Days and hours:**
+- **✅ Checked on the organization's website (2026-10-03): Partly confirmed**
+  - The City of Santa Ana and FindHelp both list Monday 10:00–11:30 AM. FindHelp also lists Wednesday 4:00–7:00 PM.
+  - Delhi Center's own website does not list pantry hours.
+  - The Westminster flyer's Thursday time is probably wrong. Call 714-481-9600 to confirm.
+- **Days and hours (Second Harvest list):**
   - Every Monday: 10:00 AM–11:30 AM
   - Every Wednesday: 4:00 PM–7:00 PM
 - **Notes from source:** Full choice walk-up
@@ -158,8 +168,13 @@ Churches, nonprofits, and community centers that hand out groceries.
 
 ### Mariners Church - Santa Ana
 - **Address:** 120 West 5th Street, Santa Ana 92701
-- **Phone:** 949-769-8100 (from Westminster FRC flyer)
-- **Days and hours:**
+- **Phone:** 949-769-8131
+- **✅ Checked on the organization's website (2026-10-03): Confirmed**
+  - Saturdays 9:00–11:00 AM. Choice-based pantry where families pick their own food.
+  - Email: cc@marinerschurch.org
+  - The Westminster flyer's Tuesday–Friday hours appear to belong to the Mariners Irvine pantry instead.
+  - Source: marinerschurch.org/food-pantry-thrift-store
+- **Days and hours (Second Harvest list):**
   - Every Saturday: 9:00 AM–11:00 AM
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
 - **Requirement (Westminster FRC flyer):** ID required
@@ -170,7 +185,7 @@ Churches, nonprofits, and community centers that hand out groceries.
   - Listed as: Mariners Santa Ana Food Pantry
   - Tuesday–Friday: 7:30 AM–1:00 PM
   - Requirement: ID required
-  - **Hours differ between the two sources.** The Second Harvest list is newer, so its hours are shown first. Call ahead to confirm.
+  - The difference between sources was checked on the website. See the ✅ section above.
 
 ### Newport Church
 - **Address:** 1325 French St, Santa Ana 92701
@@ -246,7 +261,11 @@ Churches, nonprofits, and community centers that hand out groceries.
 ### Serve The People
 - **Address:** 1206 E 17th st, Suite 204, Santa Ana 92701
 - **Phone:** 714-352-2911 (from Westminster FRC flyer)
-- **Days and hours:**
+- **✅ Checked on the organization's website (2026-10-03): Corrected**
+  - **1st & 3rd Saturdays, 4:00–7:00 AM** (not 4:30). Drive-thru pantry with groceries, produce, and sundries.
+  - The early-morning time is correct, not a typo.
+  - Source: servethepeople.org
+- **Days and hours (Second Harvest list):**
   - 1st & 3rd Saturdays of the month: 4:30 AM–7:00 AM
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
 - **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.

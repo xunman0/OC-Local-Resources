@@ -5,7 +5,7 @@ city: Westminster
 region: Orange County, CA
 zip_codes: [92683]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025)]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025); organization websites checked 2026-10-03]
 tags: [food-pantry, westminster, orange-county]
 ---
 
@@ -49,7 +49,11 @@ Churches, nonprofits, and community centers that hand out groceries.
 ### His Place Church
 - **Address:** 14061 Chestnut Street, Westminster 92683
 - **Phone:** (714) 893-6555
-- **Days and hours:**
+- **✅ Checked on the organization's website (2026-10-03): Partly confirmed**
+  - Church calendar lists "Mo's Bag Community Distribution" on the **1st Wednesday** of each month, 11:00 AM–1:00 PM, scheduled through September 2027.
+  - No Friday or Sunday food distributions appear on the church calendar. Call 714-893-6555 before going on those days.
+  - Source: hisplace.com events calendar
+- **Days and hours (Second Harvest list):**
   - 1st & 3rd Wednesdays of the month: 11:00 AM–1:00 PM
   - 2nd & 4th Fridays of the month: 9:00 AM–10:00 AM
   - Every Sunday: 10:30 AM–11:30 AM
@@ -67,7 +71,10 @@ Churches, nonprofits, and community centers that hand out groceries.
 ### Hope Lutheran Church Food Pantry
 - **Address:** 13841 Milton Ave., Westminster 92683
 - **Phone:** 714-895-3838 (from Westminster FRC flyer)
-- **Days and hours:**
+- **✅ Checked on the organization's website (2026-10-03): Corrected**
+  - **Every Friday, 9:00–11:00 AM.** The Second Harvest "1st Friday" listing appears outdated.
+  - Source: hopelutheranchurch.us
+- **Days and hours (Second Harvest list):**
   - 1st Friday of the month: 9:00 AM–12:00 PM
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
 - **Requirement (Westminster FRC flyer):** ID required
@@ -77,7 +84,7 @@ Churches, nonprofits, and community centers that hand out groceries.
 - **Also listed on the Westminster FRC flyer (Oct 2025):**
   - Every Friday: 9:00 AM–11:00 AM
   - Requirement: ID required
-  - **Hours differ between the two sources.** The Second Harvest list is newer, so its hours are shown first. Call ahead to confirm.
+  - The difference between sources was checked on the website. See the ✅ section above.
 
 ### ICNA Relief Westminster
 - **Address:** 14522 Goldenwest St., Westminster 92683

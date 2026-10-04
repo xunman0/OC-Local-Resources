@@ -3,9 +3,9 @@ title: Food Pantries in Laguna Woods, Orange County, CA
 type: city-pantry-list
 city: Laguna Woods
 region: Orange County, CA
-zip_codes: [92637, 92673]
+zip_codes: [92637]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); organization websites checked 2026-10-03]
 tags: [food-pantry, laguna-woods, orange-county]
 ---
 
@@ -29,8 +29,11 @@ This file lists 2 sites in Laguna Woods from the Second Harvest partner list: 2 
 Sites marked "SG" in the source list run a Senior Grocery program, some also with TEFAP (The Emergency Food Assistance Program). Call to confirm age and income rules.
 
 ### Lutheran Church of the Cross SG
-- **Address:** 24231 El Toro Road, Laguna Woods 92673
-- **Days and hours:**
+- **Address:** 24231 El Toro Road, Laguna Woods 92637 (corrected from 92673)
+- **Phone:** 949-837-4673 (church office)
+- **✅ Checked on the organization's website (2026-10-03): Address corrected**
+  - ZIP confirmed as 92637 (church website).
+- **Days and hours (Second Harvest list):**
   - 1st & 3rd Thursdays of the month: 8:30 AM–9:30 AM
 - **Notes from source:** Senior Grocery
 - **Who can use it:** Senior Grocery program. Age and income rules may apply.

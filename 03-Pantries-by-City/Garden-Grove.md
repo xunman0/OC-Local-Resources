@@ -5,7 +5,7 @@ city: Garden Grove
 region: Orange County, CA
 zip_codes: [92840, 92841, 92843, 92844]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025)]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025); organization websites checked 2026-10-03]
 tags: [food-pantry, garden-grove, orange-county]
 ---
 
@@ -71,8 +71,12 @@ Churches, nonprofits, and community centers that hand out groceries.
 
 ### Our Redeemer Lutheran Church - Good Roots Market
 - **Address:** 12301 Magnolia Street, Garden Grove 92841
-- **Phone:** 714-539-9541 (from Westminster FRC flyer)
-- **Days and hours:**
+- **Phone:** 714-539-9541
+- **✅ Checked on the organization's website (2026-10-03): Partly confirmed: two separate programs**
+  - Good Roots Market (free client-choice grocery store): Wednesdays 8:00 AM–2:00 PM. Source: goodrootsmarket.org
+  - Same day: Good Roots Closet (free clothing and toiletries) 9:00 AM–12:00 PM, no appointment; Wednesday Walk-In for unhoused neighbors 8:00 AM–2:00 PM with hot lunch from 11:00 AM.
+  - Church food bag distribution: every Saturday 8:00–11:00 AM, one bag per month. Source: church website (page may be out of date).
+- **Days and hours (Second Harvest list):**
   - Every Wednesday: 8:00 AM–2:00 PM
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
 - **Requirement (Westminster FRC flyer):** ID required
@@ -83,7 +87,7 @@ Churches, nonprofits, and community centers that hand out groceries.
   - Listed as: Our Redeemer Church of Garden Grove
   - Every Saturday: 8:00 AM–11:00 AM
   - Requirement: ID required
-  - **Hours differ between the two sources.** The Second Harvest list is newer, so its hours are shown first. Call ahead to confirm.
+  - The difference between sources was checked on the website. See the ✅ section above.
 
 ### St. Columban SVDP
 - **Address:** 10801 Stanford Ave, Garden Grove 92840

@@ -14,23 +14,23 @@ One file per city, built from the Second Harvest Food Bank of Orange County part
 | City | Sites | ZIP codes in list |
 |---|---|---|
 | [[Aliso-Viejo\|Aliso Viejo]] | 3 | 92656 |
-| [[Anaheim\|Anaheim]] | 58 | 92707, 92801, 92802, 92804, 92805, 92806, 92807 |
+| [[Anaheim\|Anaheim]] | 58 | 92801, 92802, 92804, 92805, 92806, 92807 |
 | [[Brea\|Brea]] | 7 | 92821 |
 | [[Buena-Park\|Buena Park]] | 8 | 90620, 90621 |
 | [[Costa-Mesa\|Costa Mesa]] | 6 | 92627 |
 | [[Cypress\|Cypress]] | 5 | 90630 |
 | [[Dana-Point\|Dana Point]] | 4 | 92624, 92629 |
 | [[Fountain-Valley\|Fountain Valley]] | 1 | 92708 |
-| [[Fullerton\|Fullerton]] | 19 | 90631, 92831, 92832, 92833 |
+| [[Fullerton\|Fullerton]] | 19 | 92831, 92832, 92833 |
 | [[Garden-Grove\|Garden Grove]] | 18 | 92840, 92841, 92843, 92844 |
 | [[Huntington-Beach\|Huntington Beach]] | 8 | 92647, 92649 |
-| [[Irvine\|Irvine]] | 7 | 92602, 92612, 92618, 92620 |
+| [[Irvine\|Irvine]] | 8 | 92602, 92603, 92612, 92618, 92620 |
 | [[La-Habra\|La Habra]] | 6 | 90631 |
 | [[La-Palma\|La Palma]] | 1 | 90623 |
 | [[Laguna-Beach\|Laguna Beach]] | 1 | 92651 |
 | [[Laguna-Hills\|Laguna Hills]] | 1 | 92653 |
 | [[Laguna-Niguel\|Laguna Niguel]] | 2 | 92677 |
-| [[Laguna-Woods\|Laguna Woods]] | 2 | 92637, 92673 |
+| [[Laguna-Woods\|Laguna Woods]] | 2 | 92637 |
 | [[Lake-Forest\|Lake Forest]] | 3 | 92630 |
 | [[Los-Alamitos\|Los Alamitos]] | 2 | 90720 |
 | [[Midway-City\|Midway City]] | 1 | 92655 |
@@ -39,7 +39,7 @@ One file per city, built from the Second Harvest Food Bank of Orange County part
 | [[Orange\|Orange]] | 19 | 92865, 92866, 92867, 92868, 92869 |
 | [[Placentia\|Placentia]] | 4 | 92870 |
 | [[Rancho-Santa-Margarita\|Rancho Santa Margarita]] | 2 | 92688 |
-| [[San-Clemente\|San Clemente]] | 6 | 92672 |
+| [[San-Clemente\|San Clemente]] | 7 | 92672, 92673 |
 | [[San-Juan-Capistrano\|San Juan Capistrano]] | 8 | 92675 |
 | [[Santa-Ana\|Santa Ana]] | 50 | 92701, 92703, 92704, 92705, 92706, 92707 |
 | [[Stanton\|Stanton]] | 3 | 90680 |

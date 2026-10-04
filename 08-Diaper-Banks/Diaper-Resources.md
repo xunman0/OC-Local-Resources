@@ -10,7 +10,7 @@ tags: [diapers, baby-supplies, diaper-bank, wic, orange-county]
 
 # Free Diaper Resources in Orange County
 
-**Last verified:** 2026-10-03. Diaper supplies run out and schedules change, so always call before going.
+**Last verified:** 2026-10-03 (5 sites also checked on their own websites). Diaper supplies run out and schedules change, so always call before going.
 
 > [!important] Call before you go
 > Most diaper partners serve only registered clients or work by appointment, and supplies are limited. Call the site first to ask about eligibility, sizes, and what to bring. If you can't reach them, dial 2-1-1.
@@ -42,8 +42,8 @@ The CAP OC list gives only names and phone numbers. Where the same organization 
 - **Source:** CAP OC Diaper Bank partner list
 
 ### Anaheim Independencia Family Resource Center
-- **Phone:** 714-702-4509
-- **Address on file:** 10841 Garza Ave, Anaheim 92804
+- **Phone:** 714-702-4509 (CAP OC diaper list); main center line 714-826-9070
+- **Address:** 10841 Garza Ave, Anaheim 92804 (confirmed 2026-10-03)
 - **Requirements:** All services by appointment only.
 - **Source:** CAP OC Diaper Bank partner list
 
@@ -124,9 +124,10 @@ The CAP OC list gives only names and phone numbers. Where the same organization 
 
 ### Families Forward
 - **Phone:** 949-552-2727
-- **Address on file:** 8 Thomas, Irvine 92618
-- **Requirements:** Must be a registered client.
-- **Source:** CAP OC Diaper Bank partner list
+- **Address:** 8 Thomas, Irvine 92618 (confirmed 2026-10-03)
+- **Requirements:** Must register in person at the front desk, Monday–Friday 9:00 AM–5:00 PM. Open to anyone living in Orange County.
+- **Diapers:** Once a month, picked up during a Community Market appointment. Appointments are Monday 9:00 AM–2:00 PM and Tuesday–Thursday 10:00 AM–3:00 PM. No walk-ins.
+- **Sources:** CAP OC Diaper Bank partner list; families-forward.org (checked 2026-10-03)
 
 ### Fristers
 - **Phone:** 949-387-7889
@@ -135,10 +136,11 @@ The CAP OC list gives only names and phone numbers. Where the same organization 
 
 ### South County Outreach
 - **Phone:** 949-380-8144
-- **Address on file:** 23661 Birtcher Dr., Lake Forest 92630
-- **Hours:** Monday–Thursday 10:00 AM–2:00 PM; Friday 9:00 AM–11:00 AM
+- **Food pantry:** 23661 Birtcher Dr., Lake Forest 92630, Monday–Thursday 9:00 AM–2:00 PM (confirmed 2026-10-03)
+- **Main office:** 7 Whatney, Suite B, Irvine 92618. This is why CAP OC lists it under Irvine.
+- **Diaper hours (CAP OC):** Monday–Thursday 10:00 AM–2:00 PM; Friday 9:00 AM–11:00 AM
 - **Requirements:** Must be a registered client.
-- **Note:** CAP OC lists this partner under Irvine, but the Second Harvest list places South County Outreach in Lake Forest. Confirm where diapers are given out.
+- **Note:** The website doesn't say whether diapers are handed out at the pantry or the main office. Call to ask.
 - **Source:** CAP OC Diaper Bank partner list
 
 ## La Habra
@@ -179,9 +181,10 @@ The CAP OC list gives only names and phone numbers. Where the same organization 
 
 ### Family Assistance Ministries (FAM)
 - **Phone:** 949-492-8477
-- **Hours:** Monday–Thursday, 10:00 AM–3:00 PM
-- **Requirements:** Must be a registered client.
-- **Note:** The Second Harvest list shows FAM food sites in Dana Point, Laguna Niguel, and San Juan Capistrano, but none in San Clemente. Confirm the diaper pickup location.
+- **Address:** 1000 Calle Cordillera, San Clemente 92673 (FAM headquarters, confirmed 2026-10-03)
+- **Hours (CAP OC):** Monday–Thursday, 10:00 AM–3:00 PM
+- **Requirements:** Must be a registered client. First-time clients should arrive before 2:00 PM to register.
+- **Also offers:** Wipes, formula, and food (Monday–Friday 10:00 AM–2:45 PM). See [[San-Clemente]].
 - **Source:** CAP OC Diaper Bank partner list
 
 ## Santa Ana
@@ -189,11 +192,10 @@ The CAP OC list gives only names and phone numbers. Where the same organization 
 ### Catholic Charities of Orange County / Cantlay Food Distribution Center
 - **Phone:** 714-347-9696
 - **Address on file:** 2020 W. Chestnut Ave, Santa Ana 92703
-- **Diaper hours (CAP OC):** Tuesday–Thursday, 1:00 PM–3:00 PM
-- **Diaper hours (Westminster FRC flyer, Oct 2025):** Tuesday–Thursday, 9:00 AM–3:00 PM
-- **Requirements:** Call for eligibility requirements and distribution information.
-- **Note:** The two sources disagree on start time. CAP OC is newer, so use 1:00–3:00 PM until confirmed. CAP OC spells the name "Cantalay"; the flyer spells it "Cantlay."
-- **Sources:** CAP OC Diaper Bank partner list; Westminster FRC flyer
+- **Diaper hours:** **Tuesday–Thursday, 1:00–3:00 PM**, for children ages 0–5. Confirmed on the Catholic Charities website (2026-10-03).
+- **Requirements:** Call for eligibility requirements and distribution information. Catholic Charities main line: 714-347-9602.
+- **Note:** The Westminster flyer's 9:00 AM start is out of date. The correct spelling is "Cantlay."
+- **Sources:** CAP OC Diaper Bank partner list; ccoc.org (checked 2026-10-03)
 
 ### Delhi Center
 - **Phone:** 714-481-9600

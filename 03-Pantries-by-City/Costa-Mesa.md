@@ -5,7 +5,7 @@ city: Costa Mesa
 region: Orange County, CA
 zip_codes: [92627]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025)]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025); organization websites checked 2026-10-03]
 tags: [food-pantry, costa-mesa, orange-county]
 ---
 
@@ -40,7 +40,12 @@ Churches, nonprofits, and community centers that hand out groceries.
 ### Share Ourselves (S.O.S)
 - **Address:** 1550 Superior Ave., Costa Mesa 92627
 - **Phone:** 949-270-2100 (from Westminster FRC flyer)
-- **Days and hours:**
+- **✅ Checked on the organization's website (2026-10-03): Corrected**
+  - **Monday–Friday, 8:00 AM–4:30 PM.** Registration required when you arrive.
+  - Grocery bags with produce, protein, bread, and canned goods. Ready-to-eat bags for people without a kitchen. No hot meals.
+  - The website doesn't mention a Wednesday midday closure.
+  - Source: shareourselves.org
+- **Days and hours (Second Harvest list):**
   - Every Monday: 8:00 AM–5:00 PM
   - Every Tuesday: 8:00 AM–5:00 PM
   - Every Wednesday: 8:00 AM–12:00 PM and 2:00 PM–5:00 PM
@@ -56,7 +61,7 @@ Churches, nonprofits, and community centers that hand out groceries.
   - Listed as: SOS Community Health Center
   - Monday–Friday: 8:00 AM–4:30 PM; Wednesday closed 12:00–2:00 PM
   - Requirement: Registration forms required
-  - **Hours differ between the two sources.** The Second Harvest list is newer, so its hours are shown first. Call ahead to confirm.
+  - The difference between sources was checked on the website. See the ✅ section above.
 
 ## School-Site Distributions
 

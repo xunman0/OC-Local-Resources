@@ -5,7 +5,7 @@ city: Huntington Beach
 region: Orange County, CA
 zip_codes: [92647, 92649]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025)]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025); organization websites checked 2026-10-03]
 tags: [food-pantry, huntington-beach, orange-county]
 ---
 
@@ -30,7 +30,11 @@ Churches, nonprofits, and community centers that hand out groceries.
 
 ### Mariners Church - Huntington Beach
 - **Address:** 7822 Warner Ave, Huntington Beach 92647
-- **Days and hours:**
+- **Phone:** 949-769-8131
+- **✅ Checked on the organization's website (2026-10-03): Confirmed**
+  - Saturdays 9:00–11:00 AM. Choice-based pantry.
+  - Source: marinerschurch.org/food-pantry-thrift-store
+- **Days and hours (Second Harvest list):**
   - Every Saturday: 9:00 AM–11:00 AM
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
 - **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
@@ -50,7 +54,12 @@ Churches, nonprofits, and community centers that hand out groceries.
 ### Refuge Calvary Chapel Huntington Beach
 - **Address:** 7800 Edinger Avenue, Huntington Beach 92647
 - **Phone:** 714-891-9495 (from Westminster FRC flyer)
-- **Days and hours:**
+- **✅ Checked on the organization's website (2026-10-03): Confirmed**
+  - Food bank: **Mondays and Tuesdays, 2:00–3:00 PM**, in the lobby.
+  - Bread pantry: open every day, free fresh bread.
+  - Lunch & Prayer: Thursdays 11:00 AM–1:00 PM in the courtyard. Hot meal, clothes, shoes, and hygiene products for homeless neighbors.
+  - Source: refugefamily.com/outreach
+- **Days and hours (Second Harvest list):**
   - Every Monday: 2:00 PM–3:00 PM
   - Every Tuesday: 2:00 PM–3:00 PM
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
@@ -60,7 +69,7 @@ Churches, nonprofits, and community centers that hand out groceries.
 - **Also listed on the Westminster FRC flyer (Oct 2025):**
   - Monday & Tuesday: 1:45 PM–3:00 PM
   - Thursday: clothing 10:30 AM; food 11:00 AM–12:00 PM
-  - **Hours differ between the two sources.** The Second Harvest list is newer, so its hours are shown first. Call ahead to confirm.
+  - The difference between sources was checked on the website. See the ✅ section above.
 
 ### St. Bonaventure Church Hope Oﬃce
 - **Address:** 16400 Springdale St, Huntington Beach 92649

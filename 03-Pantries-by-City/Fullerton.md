@@ -3,9 +3,9 @@ title: Food Pantries in Fullerton, Orange County, CA
 type: city-pantry-list
 city: Fullerton
 region: Orange County, CA
-zip_codes: [90631, 92831, 92832, 92833]
+zip_codes: [92831, 92832, 92833]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); organization websites checked 2026-10-03]
 tags: [food-pantry, fullerton, orange-county]
 ---
 
@@ -148,8 +148,11 @@ Food distributions held at schools. Check with the school or call ahead about wh
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ### Nicolas Jr High
-- **Address:** 1100 W Olive Avenue, Fullerton 90631
-- **Days and hours:**
+- **Address:** 1100 W Olive Avenue, Fullerton 92833 (corrected from 90631)
+- **Phone:** 714-447-7775 (school office)
+- **✅ Checked on the organization's website (2026-10-03): Address corrected**
+  - ZIP confirmed as 92833 (school and state listings).
+- **Days and hours (Second Harvest list):**
   - 2nd Wednesday of the month: 3:15 PM–4:15 PM
 - **Notes from source:** closed nov11 open nov 18
 - **Who can use it:** School-site distributions may be limited to families at that school.

@@ -3,9 +3,9 @@ title: Food Pantries in Irvine, Orange County, CA
 type: city-pantry-list
 city: Irvine
 region: Orange County, CA
-zip_codes: [92602, 92612, 92618, 92620]
+zip_codes: [92602, 92603, 92612, 92618, 92620]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025)]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025); organization websites checked 2026-10-03]
 tags: [food-pantry, irvine, orange-county]
 ---
 
@@ -18,7 +18,7 @@ tags: [food-pantry, irvine, orange-county]
 
 ## Quick Summary
 
-This file lists 7 sites in Irvine from the Second Harvest partner list: 3 community food pantries, 3 senior grocery sites, 1 Park-it Market site.
+This file lists 8 sites in Irvine (1 from organization websites, the rest from the Second Harvest partner list): 4 community food pantries, 3 senior grocery sites, 1 Park-it Market site.
 
 - **Days with food distribution (excluding kids meal sites):** Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
 - **Weekend options:** St. Elizabeth Ann Seton SVDP
@@ -31,7 +31,14 @@ Churches, nonprofits, and community centers that hand out groceries.
 ### Families Forward
 - **Address:** 8 Thomas, Irvine 92618
 - **Phone:** 949-552-2727 (from Westminster FRC flyer)
-- **Days and hours:**
+- **✅ Checked on the organization's website (2026-10-03): Confirmed, with new details**
+  - Now called the **Community Market** (client-choice). Hours: Monday 9:00 AM–2:00 PM; Tuesday–Thursday 10:00 AM–3:00 PM.
+  - **Register in person first** at the front desk, Monday–Friday 9:00 AM–5:00 PM. Registration is free.
+  - Need food today? You get a food bag right after registering.
+  - Market shopping is **by appointment only**, no walk-ins. One visit every 14 days. Diapers once a month.
+  - Open to anyone living in Orange County.
+  - Source: families-forward.org/food-pantry
+- **Days and hours (Second Harvest list):**
   - Every Monday: 9:00 AM–2:00 PM
   - Every Tuesday: 10:00 AM–3:00 PM
   - Every Wednesday: 10:00 AM–3:00 PM
@@ -44,12 +51,27 @@ Churches, nonprofits, and community centers that hand out groceries.
 - **Also listed on the Westminster FRC flyer (Oct 2025):**
   - Monday–Thursday: 10:00 AM–4:00 PM
   - Requirement: Registration forms and ID required
-  - **Hours differ between the two sources.** The Second Harvest list is newer, so its hours are shown first. Call ahead to confirm.
+  - The difference between sources was checked on the website. See the ✅ section above.
+
+### Mariners Church - Irvine
+- **Address:** 5001 Newport Coast Dr., Irvine 92603
+- **Phone:** 949-769-8131
+- **Days and hours:**
+  - Every Tuesday: 9:30 AM–12:30 PM
+  - Every Wednesday: 9:30 AM–12:30 PM
+  - Every Thursday: 9:30 AM–12:30 PM
+  - Every Friday: 9:30 AM–12:30 PM
+- **Notes:** Choice-based pantry in the Community Center.
+- **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
+- **Source:** Mariners Church website (marinerschurch.org), checked 2026-10-03. Not on the Second Harvest partner list dated 09/14/2026.
 
 ### St. Elizabeth Ann Seton SVDP
 - **Address:** 9 Hillgate, Irvine 92612
-- **Phone:** (949)0854-1000 ext 236
-- **Days and hours:**
+- **Phone:** (949) 854-1000 ext. 236 (leave a message)
+- **✅ Checked on the organization's website (2026-10-03): Phone corrected**
+  - Correct phone is (949) 854-1000 ext. 236. Leave a message; it is checked on weekdays. Source: seasirvine.org
+- **Days and hours (Second Harvest list):**
   - Some Saturdays (irregular schedule; see note or call): 9:00 AM–11:00 AM
 - **Notes from source:** Every other Saturday morning deliveries to clients in Irvine. Please call (949)0854-1000 ext 236
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
