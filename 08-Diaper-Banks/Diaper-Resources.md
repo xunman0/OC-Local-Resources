@@ -23,6 +23,10 @@ Most free diapers in Orange County come through the **Community Action Partnersh
 - **Evening and weekend options:** Delhi Center (Santa Ana) is open evenings Monday–Thursday and on Saturdays. Share Our Selves (Costa Mesa) is open until 7 PM Monday–Thursday.
 - **Cities with partners:** Anaheim, Buena Park, Costa Mesa, Fountain Valley, Fullerton, Garden Grove, Irvine, La Habra, Orange, Placentia, San Clemente, Santa Ana, Westminster.
 
+## Where to Check for Updates
+- CAP OC Diaper Bank partner list: https://www.capoc.org/addressing-immediate-needs/#diaper-bank
+- Individual partner websites are listed under each entry where available.
+
 ## Glossary
 - **Diaper bank:** an organization that collects diapers and gives them out, either directly or through partner agencies. CAP OC runs the main one in Orange County.
 - **Diaper bank partner:** a local agency (WIC office, resource center, pantry) that hands out the diaper bank's diapers to families.
@@ -43,6 +47,7 @@ The CAP OC list gives only names and phone numbers. Where the same organization 
 
 ### Anaheim Independencia Family Resource Center
 - **Phone:** 714-702-4509 (CAP OC diaper list); main center line 714-826-9070
+- **Official website:** https://www.capoc.org/addressing-immediate-needs/#diaper-bank
 - **Address:** 10841 Garza Ave, Anaheim 92804 (confirmed 2026-10-03)
 - **Requirements:** All services by appointment only.
 - **Source:** CAP OC Diaper Bank partner list
@@ -79,6 +84,7 @@ The CAP OC list gives only names and phone numbers. Where the same organization 
 
 ### Share Our Selves (SOS)
 - **Phone:** 949-270-2100
+- **Official website:** https://shareourselves.org
 - **Address on file:** 1550 Superior Ave., Costa Mesa 92627
 - **Hours (CAP OC):** Monday–Thursday 8:00 AM–7:00 PM; Friday 8:00 AM–6:00 PM
 - **Requirements:** Call for eligibility requirements and distribution information.
@@ -124,6 +130,7 @@ The CAP OC list gives only names and phone numbers. Where the same organization 
 
 ### Families Forward
 - **Phone:** 949-552-2727
+- **Official website:** https://www.families-forward.org/food-pantry/
 - **Address:** 8 Thomas, Irvine 92618 (confirmed 2026-10-03)
 - **Requirements:** Must register in person at the front desk, Monday–Friday 9:00 AM–5:00 PM. Open to anyone living in Orange County.
 - **Diapers:** Once a month, picked up during a Community Market appointment. Appointments are Monday 9:00 AM–2:00 PM and Tuesday–Thursday 10:00 AM–3:00 PM. No walk-ins.
@@ -136,6 +143,7 @@ The CAP OC list gives only names and phone numbers. Where the same organization 
 
 ### South County Outreach
 - **Phone:** 949-380-8144
+- **Official website:** https://www.sco-oc.org
 - **Food pantry:** 23661 Birtcher Dr., Lake Forest 92630, Monday–Thursday 9:00 AM–2:00 PM (confirmed 2026-10-03)
 - **Main office:** 7 Whatney, Suite B, Irvine 92618. This is why CAP OC lists it under Irvine.
 - **Diaper hours (CAP OC):** Monday–Thursday 10:00 AM–2:00 PM; Friday 9:00 AM–11:00 AM
@@ -181,6 +189,7 @@ The CAP OC list gives only names and phone numbers. Where the same organization 
 
 ### Family Assistance Ministries (FAM)
 - **Phone:** 949-492-8477
+- **Official website:** https://lovefam.org
 - **Address:** 1000 Calle Cordillera, San Clemente 92673 (FAM headquarters, confirmed 2026-10-03)
 - **Hours (CAP OC):** Monday–Thursday, 10:00 AM–3:00 PM
 - **Requirements:** Must be a registered client. First-time clients should arrive before 2:00 PM to register.
@@ -191,6 +200,7 @@ The CAP OC list gives only names and phone numbers. Where the same organization 
 
 ### Catholic Charities of Orange County / Cantlay Food Distribution Center
 - **Phone:** 714-347-9696
+- **Official website:** https://ccoc.org/programs/life-sustaining-services/
 - **Address on file:** 2020 W. Chestnut Ave, Santa Ana 92703
 - **Diaper hours:** **Tuesday–Thursday, 1:00–3:00 PM**, for children ages 0–5. Confirmed on the Catholic Charities website (2026-10-03).
 - **Requirements:** Call for eligibility requirements and distribution information. Catholic Charities main line: 714-347-9602.

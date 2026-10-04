@@ -15,6 +15,8 @@ tags: [food-pantry, midway-city, orange-county]
 
 > [!important] Call before you go
 > Hours change often, and some sites serve only residents, enrolled children, or registered clients. Call the site or dial 2-1-1 before making the trip.
+>
+> **Second Harvest partner sites** (most sites in this file): for the latest schedule and partner list, contact Second Harvest Food Bank of Orange County at **949-653-2900** or **info@feedoc.org**. For school sites, please contact Second Harvest instead of the school.
 
 ## Quick Summary
 
@@ -31,6 +33,7 @@ Churches, nonprofits, and community centers that hand out groceries.
 ### Abrazar - Midway City Community Center
 - **Address:** 14900 Park Ln, Midway City 92655
 - **Phone:** 714-893-3581 (from Westminster FRC flyer)
+- **Official website (check hours here):** https://www.abrazarinc.com/midway-city
 - **✅ Checked on the organization's website (2026-10-03): Address confirmed; food hours not confirmed**
   - Address confirmed as 14900 Park Lane, Midway City (Abrazar website). The flyer's "Westminster" address is the mailing area, not the city.
   - Center hours (not food hours): Monday & Thursday 8:30 AM–8:00 PM; Tuesday, Wednesday, Friday 8:30 AM–5:00 PM.
@@ -41,8 +44,8 @@ Churches, nonprofits, and community centers that hand out groceries.
   - Every Friday: 12:00 PM–2:00 PM
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
 - **Requirement (Westminster FRC flyer):** Registration forms
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 - **Also listed on the Westminster FRC flyer (Oct 2025):**
   - Listed as: Abrazar Food Distribution

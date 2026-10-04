@@ -42,6 +42,7 @@ This knowledge base helps people in Orange County, California find free or low-c
 ## Guidance for AI Answers
 - Recommend that users **call ahead**, because pantry hours change often.
 - Recommend **211 OC (dial 2-1-1)** as the backup for current listings.
+- For **Second Harvest partner sites**, especially school sites, refer people to **Second Harvest at 949-653-2900** for the latest schedule instead of calling the school.
 - Mention the `last_verified` date when giving hours or locations.
 - If someone needs food today, point them to **01-How-to-Get-Food-Now** first.
 
@@ -57,7 +58,7 @@ This knowledge base helps people in Orange County, California find free or low-c
 
 ## Primary Sources to Verify Against
 - 211 OC: [link]
-- Second Harvest Food Bank of Orange County: [link]
+- Second Harvest Food Bank of Orange County: https://www.feedoc.org · 949-653-2900 · info@feedoc.org · 8014 Marine Way, Irvine 92618. **Contact for the latest schedules of all Second Harvest partner sites.** For school sites, refer people to Second Harvest instead of the school.
 - Community Action Partnership of Orange County (OC Food Bank): [link]
 - Orange County Social Services Agency (CalFresh): [link]
 - OC Food Help free food map (cited on the Westminster FRC flyer): ocfoodhelp.org/orange-county-free-food-map/

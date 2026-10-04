@@ -15,6 +15,8 @@ tags: [food-pantry, garden-grove, orange-county]
 
 > [!important] Call before you go
 > Hours change often, and some sites serve only residents, enrolled children, or registered clients. Call the site or dial 2-1-1 before making the trip.
+>
+> **Second Harvest partner sites** (most sites in this file): for the latest schedule and partner list, contact Second Harvest Food Bank of Orange County at **949-653-2900** or **info@feedoc.org**. For school sites, please contact Second Harvest instead of the school.
 
 ## Quick Summary
 
@@ -35,8 +37,8 @@ Churches, nonprofits, and community centers that hand out groceries.
   - Every Wednesday: 8:00 AM–4:00 PM
   - Every Friday: 8:00 AM–4:00 PM
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ### Helping Others Prepare for Eternity (H.O.P.E.)
@@ -47,8 +49,8 @@ Churches, nonprofits, and community centers that hand out groceries.
   - Every Thursday: 1:00 PM–3:00 PM
   - Every Friday: 1:00 PM–3:00 PM
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ### ICNA Relief Garden Grove
@@ -56,8 +58,8 @@ Churches, nonprofits, and community centers that hand out groceries.
 - **Days and hours:**
   - 4th Wednesday of the month: 5:45 PM–7:30 PM
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ### Islamic Society of OC
@@ -65,13 +67,14 @@ Churches, nonprofits, and community centers that hand out groceries.
 - **Days and hours:**
   - Every Monday: 10:00 AM–12:00 PM
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ### Our Redeemer Lutheran Church - Good Roots Market
 - **Address:** 12301 Magnolia Street, Garden Grove 92841
 - **Phone:** 714-539-9541
+- **Official website (check hours here):** https://www.goodrootsmarket.org
 - **✅ Checked on the organization's website (2026-10-03): Partly confirmed: two separate programs**
   - Good Roots Market (free client-choice grocery store): Wednesdays 8:00 AM–2:00 PM. Source: goodrootsmarket.org
   - Same day: Good Roots Closet (free clothing and toiletries) 9:00 AM–12:00 PM, no appointment; Wednesday Walk-In for unhoused neighbors 8:00 AM–2:00 PM with hot lunch from 11:00 AM.
@@ -80,8 +83,8 @@ Churches, nonprofits, and community centers that hand out groceries.
   - Every Wednesday: 8:00 AM–2:00 PM
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
 - **Requirement (Westminster FRC flyer):** ID required
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 - **Also listed on the Westminster FRC flyer (Oct 2025):**
   - Listed as: Our Redeemer Church of Garden Grove
@@ -95,8 +98,8 @@ Churches, nonprofits, and community centers that hand out groceries.
   - 3rd Saturday of the month: 8:30 AM–10:00 AM
 - **Notes from source:** 3rd Saturday after the 3rd Thursday of the month.
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ### St. Olaf - Saturated In His Love
@@ -104,8 +107,8 @@ Churches, nonprofits, and community centers that hand out groceries.
 - **Days and hours:**
   - 1st Wednesday of the month: 9:00 AM–12:00 PM
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ### Village Bible Church
@@ -113,8 +116,8 @@ Churches, nonprofits, and community centers that hand out groceries.
 - **Days and hours:**
   - 2nd Saturday of the month: 9:00 AM–10:00 AM
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ## School-Site Distributions
@@ -126,8 +129,8 @@ Food distributions held at schools. Check with the school or call ahead about wh
 - **Days and hours:**
   - 3rd Wednesday of the month: 1:30 PM–2:30 PM
 - **Who can use it:** School-site distributions may be limited to families at that school.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call **Second Harvest at 949-653-2900** to confirm dates and closures. Please contact Second Harvest instead of the school.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ### Eisenhower Elementary School
@@ -135,8 +138,8 @@ Food distributions held at schools. Check with the school or call ahead about wh
 - **Days and hours:**
   - 2nd Monday of the month: 1:45 PM–2:45 PM
 - **Who can use it:** School-site distributions may be limited to families at that school.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call **Second Harvest at 949-653-2900** to confirm dates and closures. Please contact Second Harvest instead of the school.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ### Lampson Elementary
@@ -145,8 +148,8 @@ Food distributions held at schools. Check with the school or call ahead about wh
   - 4th Thursday of the month: 9:15 AM–10:15 AM
 - **Notes from source:** closed nov 26, dec 23 open nov 12, dec 15
 - **Who can use it:** School-site distributions may be limited to families at that school.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call **Second Harvest at 949-653-2900** to confirm dates and closures. Please contact Second Harvest instead of the school.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ### Simmons Elementary
@@ -154,8 +157,8 @@ Food distributions held at schools. Check with the school or call ahead about wh
 - **Days and hours:**
   - 3rd Friday of the month: 1:15 PM–2:15 PM
 - **Who can use it:** School-site distributions may be limited to families at that school.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call **Second Harvest at 949-653-2900** to confirm dates and closures. Please contact Second Harvest instead of the school.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ### Wakeham Elementary
@@ -163,8 +166,8 @@ Food distributions held at schools. Check with the school or call ahead about wh
 - **Days and hours:**
   - 2nd Thursday of the month: 1:15 PM–2:15 PM
 - **Who can use it:** School-site distributions may be limited to families at that school.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call **Second Harvest at 949-653-2900** to confirm dates and closures. Please contact Second Harvest instead of the school.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ## Senior Grocery Sites
@@ -177,8 +180,8 @@ Sites marked "SG" in the source list run a Senior Grocery program, some also wit
   - Every Tuesday: 9:00 AM–10:00 AM
 - **Notes from source:** Senior Grocery
 - **Who can use it:** Senior Grocery program. Age and income rules may apply.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ## Park-it Market Sites
@@ -191,8 +194,8 @@ Sites marked "PIM" in the source list host a Park-it Market distribution.
   - Every Friday: 10:30 AM–11:30 AM
 - **Notes from source:** Park-it Market 2
 - **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ## Kids Meal Sites
@@ -204,12 +207,13 @@ Sites marked "KC" in the source list. Unless the note says otherwise, these serv
 - **Days and hours:**
   - Every Monday: 3:00 PM–3:30 PM
   - Every Tuesday: 3:00 PM–3:30 PM
-  - Every Wednesday: 2:00 PM–2:30 AM
+  - Every Wednesday: 2:00 PM–2:30 PM
   - Every Thursday: 3:00 PM–3:30 PM
+- **Correction:** Wednesday hours corrected from "2:00 PM–2:30 AM" to "2:00 PM–2:30 PM". The source list had AM where PM was clearly meant.
 - **Notes from source:** Meals for children 18 and under
 - **Who can use it:** Kids meal sites are usually for children enrolled in that club or program. Ask whether your child can attend.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ### Project Access - Crystal View KC
@@ -221,8 +225,8 @@ Sites marked "KC" in the source list. Unless the note says otherwise, these serv
   - Every Thursday: 3:30 PM–4:00 PM
 - **Notes from source:** Meals for children 18 and under
 - **Who can use it:** Kids meal sites are usually for children enrolled in that club or program. Ask whether your child can attend.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ### Project Access - Malabar KC
@@ -234,8 +238,8 @@ Sites marked "KC" in the source list. Unless the note says otherwise, these serv
   - Every Thursday: 3:00 PM–3:30 PM
   - Every Friday: 3:00 PM–3:30 PM
 - **Who can use it:** Kids meal sites are usually for children enrolled in that club or program. Ask whether your child can attend.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Partner of:** Second Harvest Food Bank of Orange County
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
+- **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 
 ## If Nothing Here Works

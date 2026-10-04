@@ -4,6 +4,8 @@ A plain-language knowledge base of free food and diaper resources in Orange Coun
 
 > [!important] Call before you go
 > Hours change often, and some sites serve only residents, enrolled children, or registered clients. Call the site or dial **2-1-1** (211 OC) before making the trip.
+>
+> For the latest schedule at any **Second Harvest partner site**, contact Second Harvest Food Bank of Orange County at **949-653-2900** or **info@feedoc.org**.
 
 ## What's Inside
 
