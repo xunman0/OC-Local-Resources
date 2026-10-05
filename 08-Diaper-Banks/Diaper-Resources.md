@@ -14,6 +14,8 @@ tags: [diapers, baby-supplies, diaper-bank, wic, orange-county]
 
 > [!important] Call before you go
 > Most diaper partners serve only registered clients or work by appointment, and supplies are limited. Call the site first to ask about eligibility, sizes, and what to bring. If you can't reach them, dial 2-1-1.
+>
+> **CAP OC Diaper Bank partners** (most sites in this file): for the latest partner list and diaper questions, contact CAP OC at **714-897-6670** or **info@capoc.org**.
 
 ## Quick Summary
 Most free diapers in Orange County come through the **Community Action Partnership of Orange County (CAP OC) Diaper Bank**, which gives monthly diaper supplies to families with children through partner agencies. This file lists 29 CAP OC partners in 13 cities, plus details from the food pantry lists.
@@ -25,6 +27,7 @@ Most free diapers in Orange County come through the **Community Action Partnersh
 
 ## Where to Check for Updates
 - CAP OC Diaper Bank partner list: https://www.capoc.org/addressing-immediate-needs/#diaper-bank
+- Community Action Partnership of Orange County (CAP OC): 714-897-6670 · info@capoc.org · 11870 Monarch Street, Garden Grove 92841 · https://www.capoc.org
 - Individual partner websites are listed under each entry where available.
 
 ## Glossary
@@ -262,9 +265,11 @@ The CAP OC list gives only names and phone numbers. Where the same organization 
 - If someone is already a **WIC client**, suggest asking their own WIC office about diapers first.
 - Several WIC entries share the main line **1-888-968-7942**. Tell users that number is shared, not a direct office line.
 - Tell people diapers are given out **monthly** through CAP OC partners, so they shouldn't expect weekly pickups.
+- If a partner can't be reached or the list may be outdated, refer people to **CAP OC at 714-897-6670** for the latest partner list.
 - If nothing here fits, suggest dialing **2-1-1**.
 
 ## If Nothing Here Works
+- Call CAP OC at **714-897-6670** for the latest diaper partner list.
 - Dial **2-1-1** to reach 211 OC.
 - See [[_Index|Food Pantries by City]]; some pantries hand out baby items that aren't in these source lists.
 

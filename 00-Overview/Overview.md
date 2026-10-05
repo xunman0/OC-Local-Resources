@@ -59,7 +59,7 @@ This knowledge base helps people in Orange County, California find free or low-c
 ## Primary Sources to Verify Against
 - 211 OC: [link]
 - Second Harvest Food Bank of Orange County: https://www.feedoc.org · 949-653-2900 · info@feedoc.org · 8014 Marine Way, Irvine 92618. **Contact for the latest schedules of all Second Harvest partner sites.** For school sites, refer people to Second Harvest instead of the school.
-- Community Action Partnership of Orange County (OC Food Bank): [link]
+- Community Action Partnership of Orange County (CAP OC): 714-897-6670 · info@capoc.org · 11870 Monarch Street, Garden Grove 92841 · https://www.capoc.org. Runs the OC Food Bank and the CAP OC Diaper Bank. **Contact for the latest diaper partner list.**
 - Orange County Social Services Agency (CalFresh): [link]
 - OC Food Help free food map (cited on the Westminster FRC flyer): ocfoodhelp.org/orange-county-free-food-map/
 
