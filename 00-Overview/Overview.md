@@ -15,7 +15,7 @@ This knowledge base helps people in Orange County, California find free or low-c
 ## Scope
 - **Geography:** Orange County, CA only. Statewide or federal programs are included when Orange County residents can use them.
 - **Covered:** food pantries, food banks, hot meals, mobile and pop-up pantries, CalFresh, WIC, school meals, senior meal programs, and free diaper resources.
-- **Not covered:** housing, utilities, or cash aid, except for brief referrals.
+- **Community resources:** legal aid, immigration, disability services, benefits, healthcare, mental health, housing, family resource centers, seniors, and transportation are in `10-Community-Resources`.
 
 ## How This Vault Is Organized
 | Folder | What it contains |
@@ -29,6 +29,7 @@ This knowledge base helps people in Orange County, California find free or low-c
 | 06-Hot-Meals-and-Mobile | Soup kitchens, mobile pantries, and pop-ups |
 | 07-Referral-Lines | 211 OC and pantry locators |
 | 08-Diaper-Banks | Free diaper distributions and diaper banks |
+| 10-Community-Resources | Non-food help: legal, immigration, disability, benefits, healthcare, mental health, housing, family resource centers, seniors, transportation |
 | 99-Sources-and-Verification | Source list and verification log |
 
 ## Rules for Every File

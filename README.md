@@ -1,6 +1,6 @@
-# OC Local Resources: Food Pantries and Diaper Banks
+# OC Local Resources: Food, Diapers, and Community Resources
 
-A plain-language knowledge base of free food and diaper resources in Orange County, California. It is written in Markdown for Obsidian and organized so an AI assistant can find accurate, specific answers.
+A plain-language knowledge base of free food, diaper, and community resources in Orange County, California. It is written in Markdown for Obsidian and organized so an AI assistant can find accurate, specific answers.
 
 > [!important] Call before you go
 > Hours change often, and some sites serve only residents, enrolled children, or registered clients. Call the site or dial **2-1-1** (211 OC) before making the trip.
@@ -15,6 +15,7 @@ A plain-language knowledge base of free food and diaper resources in Orange Coun
 | `00-Overview` | Scope, glossary, and rules for how the files are written |
 | `03-Pantries-by-City` | One file per city, listing food pantries, school sites, senior grocery sites, Park-it Markets, and kids meal sites |
 | `08-Diaper-Banks` | Free diaper distributions, mostly through the CAP OC Diaper Bank |
+| `10-Community-Resources` | Legal aid, immigration, disability services, benefits, healthcare, mental health, housing, family resource centers, seniors, and transportation |
 
 Start with `03-Pantries-by-City/_Index.md` for a list of all cities.
 
@@ -25,6 +26,8 @@ Start with `03-Pantries-by-City/_Index.md` for a list of all cities.
 | Second Harvest Food Bank of Orange County partner list | As of 09/14/2026 |
 | City of Westminster FRC "Local Food Pantries" flyer | Undated; file created 10/29/2025 |
 | Community Action Partnership of Orange County (CAP OC) Diaper Bank partner list | Read from capoc.org on 10/03/2026 |
+| Community resources spreadsheet (recreation of the RCOC community resources list) | 2026 |
+| Legal Resources list (Orange County and surrounding area) | 2026 |
 | Individual organization websites (used to check conflicts and fix errors) | Checked 10/03/2026 |
 
 Each site entry names its source. When two sources disagree, the newer source is shown first and the other version is listed underneath, marked as a conflict.
