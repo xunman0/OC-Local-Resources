@@ -20,10 +20,10 @@ tags: [food-pantry, santa-ana, orange-county]
 
 ## Quick Summary
 
-This file lists 51 sites in Santa Ana (1 from organization websites or the County Pocket Guide, the rest from the Second Harvest partner list): 22 community food pantries, 18 school-site distributions, 2 Park-it Market sites, 9 kids meal sites.
+This file lists 50 sites in Santa Ana from the Second Harvest partner list: 21 community food pantries, 18 school-site distributions, 2 Park-it Market sites, 9 kids meal sites.
 
 - **Days with food distribution (excluding kids meal sites):** Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
-- **Weekend options:** Coast Hills Community Church - Lowell, Coast Hills Community Church - Madison, Gospel Light Church of God in Christ, Mariners Church - Santa Ana, Sabil USA, Serve The People, Southwest Community Center (CAP OC) – Hot Meals and Food Distribution, St. Joseph School SVDP
+- **Weekend options:** Coast Hills Community Church - Lowell, Coast Hills Community Church - Madison, Gospel Light Church of God in Christ, Mariners Church - Santa Ana, Sabil USA, Serve The People, St. Joseph School SVDP
 - **Evening options (open past 5 PM):** Companerismo Rey de Reyes, Delhi Center, Immaculate Heart of Mary Church, La Semilla, Orangewood Foundation
 
 ## Community Food Pantries
@@ -281,26 +281,6 @@ Churches, nonprofits, and community centers that hand out groceries.
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
 - **Also listed on the Westminster FRC flyer (Oct 2025):**
   - 1st & 3rd Saturdays of the month: 4:00 AM–7:00 AM; food 11:00 AM–12:00 PM
-
-### Southwest Community Center (CAP OC) – Hot Meals and Food Distribution
-- **Address:** 1601 W. 2nd St., Santa Ana, CA 92703
-- **Phone:** 714-547-4073
-- **Days and hours:**
-  - Every Monday: 12:00 PM–1:00 PM
-  - Every Tuesday: 12:00 PM–1:00 PM
-  - Every Wednesday: 12:00 PM–1:00 PM
-  - Every Thursday: 12:00 PM–1:00 PM
-  - Every Friday: 12:00 PM–1:00 PM
-  - Every Saturday: 12:00 PM–1:00 PM
-  - Every Sunday: 12:00 PM–1:00 PM
-  - Every Saturday: 8:00 AM–9:00 AM
-  - Every Sunday: 8:00 AM–9:00 AM
-  - Every Monday: 9:00 AM–11:00 AM
-  - Every Wednesday: 9:00 AM–11:00 AM
-- **Notes:** Hot meals to go every day 12:00–1:00 PM, plus Saturday and Sunday 8:00–9:00 AM. Food distribution Monday and Wednesday 9:00–11:00 AM. Run by CAP OC; also a diaper partner (see [[Diaper-Resources]]) and a kids meal site.
-- **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
-- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
-- **Source:** County of Orange Pocket Guide Resource Directory (updated 5/13/2025). Not on the Second Harvest partner list dated 09/14/2026.
 
 ### St. Joseph School SVDP
 - **Address:** 608 East Civic Dr., Santa Ana 92701

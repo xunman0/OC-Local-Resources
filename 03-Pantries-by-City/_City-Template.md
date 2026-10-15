@@ -39,7 +39,7 @@ tags: [food-pantry, [city-name], orange-county]
 <!-- Copy the block above for each pantry. -->
 
 ## Hot Meals in [City Name]
-See [[01-How-to-Get-Food-Now]] or list local sites here.
+See [[06-Hot-Meals-and-Mobile]] or list local sites here.
 
 ## Mobile Pantry Stops in [City Name]
 [Location, schedule, and source link, or "None found as of YYYY-MM-DD."]

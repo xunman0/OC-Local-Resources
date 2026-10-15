@@ -41,7 +41,7 @@ One file per city, built from the Second Harvest Food Bank of Orange County part
 | [[Rancho-Santa-Margarita\|Rancho Santa Margarita]] | 2 | 92688 |
 | [[San-Clemente\|San Clemente]] | 7 | 92672, 92673 |
 | [[San-Juan-Capistrano\|San Juan Capistrano]] | 8 | 92675 |
-| [[Santa-Ana\|Santa Ana]] | 51 | 92701, 92703, 92704, 92705, 92706, 92707 |
+| [[Santa-Ana\|Santa Ana]] | 50 | 92701, 92703, 92704, 92705, 92706, 92707 |
 | [[Stanton\|Stanton]] | 3 | 90680 |
 | [[Tustin\|Tustin]] | 18 | 92705, 92780 |
 | [[Westminster\|Westminster]] | 9 | 92683 |

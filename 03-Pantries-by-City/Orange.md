@@ -145,14 +145,7 @@ Churches, nonprofits, and community centers that hand out groceries.
 
 ### The Hub Resource Center
 - **Address:** 517 W Struck Ave, Orange 92867
-- **Phone:** 657-767-5751
-- **Official website (check hours here):** https://thehubresourcecenter.org
-- **✅ Checked in the County Pocket Guide (2026-10-05): More details**
-  - Open Monday–Friday 7:00 AM–1:00 PM and Saturday 9:00 AM–1:00 PM (County Pocket Guide, 5/2025). The Second Harvest list shows no Wednesday hours; call to confirm.
-  - **Hot meals:** 8:30–10:30 AM and 11:30 AM–1:00 PM.
-  - Also offers laundry, showers, restrooms, hygiene kits, mail services, and clothing.
-  - Source: County of Orange Pocket Guide Resource Directory (updated 5/13/2025)
-- **Days and hours (Second Harvest list):**
+- **Days and hours:**
   - Every Monday: 7:00 AM–11:00 AM
   - Every Tuesday: 7:00 AM–11:00 AM
   - Every Thursday: 7:00 AM–11:00 AM

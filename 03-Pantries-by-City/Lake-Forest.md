@@ -41,15 +41,12 @@ Churches, nonprofits, and community centers that hand out groceries.
 
 ### South County Outreach - The Outreach
 - **Address:** 23661 Birtcher Dr., Lake Forest 92630
-- **Phone:** 949-380-8144 ext. 207
-- **Official website (check hours here):** https://www.sco-oc.org/get-help/food-program/
-- **✅ Checked on the organization's website (2026-10-05): Confirmed, with new details**
-  - Food pantry ("Food Market"): 23661 Birtcher Dr., Lake Forest, **Monday–Thursday 9:00 AM–2:00 PM**. The pantry **moved to Lake Forest**; older lists (including the 2025 County Pocket Guide) show Irvine and Laguna Niguel pantries.
-  - **Appointments required.** Returning clients book online through the SCO portal. **New clients** must first email appointments@sco-oc.org to complete an application (with photo ID) before booking.
-  - Visits allowed **once a month**. Client-choice market with milk, eggs, protein, and fresh produce.
-  - Appointment help: 949-687-2401 or appointments@sco-oc.org.
+- **Phone:** 949-380-8144
+- **Official website (check hours here):** https://www.sco-oc.org
+- **✅ Checked on the organization's website (2026-10-03): Confirmed**
+  - Food pantry: 23661 Birtcher Dr., Lake Forest, **Monday–Thursday 9:00 AM–2:00 PM**.
   - Main office (not the pantry): 7 Whatney, Suite B, Irvine 92618.
-  - Source: South County Outreach website (checked 2026-10-05)
+  - Source: sco-oc.org
 - **Days and hours (Second Harvest list):**
   - Every Monday: 9:00 AM–2:00 PM
   - Every Tuesday: 9:00 AM–2:00 PM
