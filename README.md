@@ -14,8 +14,12 @@ A plain-language knowledge base of free food, diaper, and community resources in
 |---|---|
 | `00-Overview` | Scope, glossary, and rules for how the files are written |
 | `01-How-to-Get-Food-Now` | **Start here if you need food today:** hot meals, same-day food by region, what to bring |
+| `02-Major-Food-Banks` | Second Harvest and CAP OC, and what partner site codes mean |
 | `03-Pantries-by-City` | One file per city, listing food pantries, school sites, senior grocery sites, Park-it Markets, and kids meal sites |
+| `04-Special-Populations` | Where families, students, seniors, veterans, and others find help |
 | `05-Benefit-Programs` | CalFresh, WIC, school meals, and senior meals |
+| `06-Hot-Meals-and-Mobile` | Hot meals, showers, and Park-it Markets |
+| `07-Referral-Lines` | 211 and help lines for food, housing, crisis, and safety |
 | `08-Diaper-Banks` | Free diaper distributions, mostly through the CAP OC Diaper Bank |
 | `10-Community-Resources` | Legal aid, immigration, disability services, benefits, healthcare, mental health, housing, family resource centers, seniors, and transportation |
 
