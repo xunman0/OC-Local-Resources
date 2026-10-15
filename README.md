@@ -13,11 +13,13 @@ A plain-language knowledge base of free food, diaper, and community resources in
 | Folder | What it contains |
 |---|---|
 | `00-Overview` | Scope, glossary, and rules for how the files are written |
+| `01-How-to-Get-Food-Now` | **Start here if you need food today:** hot meals, same-day food by region, what to bring |
 | `03-Pantries-by-City` | One file per city, listing food pantries, school sites, senior grocery sites, Park-it Markets, and kids meal sites |
+| `05-Benefit-Programs` | CalFresh, WIC, school meals, and senior meals |
 | `08-Diaper-Banks` | Free diaper distributions, mostly through the CAP OC Diaper Bank |
 | `10-Community-Resources` | Legal aid, immigration, disability services, benefits, healthcare, mental health, housing, family resource centers, seniors, and transportation |
 
-Start with `03-Pantries-by-City/_Index.md` for a list of all cities.
+Need food today? Start with `01-How-to-Get-Food-Now`. For all pantries by city, see `03-Pantries-by-City/_Index.md`.
 
 ## Sources
 
