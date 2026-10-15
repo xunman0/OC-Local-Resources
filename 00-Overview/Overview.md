@@ -21,13 +21,13 @@ This knowledge base helps people in Orange County, California find free or low-c
 | Folder | What it contains |
 |---|---|
 | 00-Overview | This file, the glossary, and how-to-use notes |
-| 01-How-to-Get-Food-Now | Same-day and emergency options, and what to bring |
-| 02-Major-Food-Banks | The regional food banks and their partner networks |
+| 01-How-to-Get-Food-Now | Same-day food, hot meals by region, what to bring. See [[01-How-to-Get-Food-Now]] |
+| 02-Major-Food-Banks | Second Harvest and CAP OC, and what partner site codes mean. See [[Food-Banks]] |
 | 03-Pantries-by-City | One file per city, with pantry details |
-| 04-Special-Populations | Seniors, students, veterans, families, and people without a kitchen |
-| 05-Benefit-Programs | CalFresh, WIC, school meals, and senior meals |
-| 06-Hot-Meals-and-Mobile | Soup kitchens, mobile pantries, and pop-ups |
-| 07-Referral-Lines | 211 OC and pantry locators |
+| 04-Special-Populations | Where each group (families, students, seniors, homeless, veterans, disability, immigrants, DV survivors) finds help. See [[Special-Populations]] |
+| 05-Benefit-Programs | [[CalFresh]] and [[Other-Food-Programs]] (WIC, school meals, senior meals) |
+| 06-Hot-Meals-and-Mobile | Hot meals, showers, and Park-it Markets. See [[Hot-Meals-and-Mobile]] |
+| 07-Referral-Lines | 211, food, housing, crisis, and abuse hotlines in one place. See [[Referral-Lines]] |
 | 08-Diaper-Banks | Free diaper distributions and diaper banks |
 | 10-Community-Resources | Non-food help: legal, immigration, disability, benefits, healthcare, mental health, housing, family resource centers, seniors, transportation |
 | 99-Sources-and-Verification | Source list and verification log |
@@ -48,7 +48,7 @@ See [[Project-Report]] for how this knowledge base was built, the sources used, 
 - Recommend **211 OC (dial 2-1-1)** as the backup for current listings.
 - For **Second Harvest partner sites**, especially school sites, refer people to **Second Harvest at 949-653-2900** for the latest schedule instead of calling the school.
 - Mention the `last_verified` date when giving hours or locations.
-- If someone needs food today, point them to **01-How-to-Get-Food-Now** first.
+- If someone needs food today, point them to [[01-How-to-Get-Food-Now]] first.
 
 ## Glossary
 - **Food bank:** a large warehouse organization that collects food and supplies it to many smaller pantries. Most people do not pick up food directly at a food bank.
@@ -64,7 +64,7 @@ See [[Project-Report]] for how this knowledge base was built, the sources used, 
 - 211 OC: [link]
 - Second Harvest Food Bank of Orange County: https://www.feedoc.org · 949-653-2900 · info@feedoc.org · 8014 Marine Way, Irvine 92618. **Contact for the latest schedules of all Second Harvest partner sites.** For school sites, refer people to Second Harvest instead of the school.
 - Community Action Partnership of Orange County (CAP OC): 714-897-6670 · info@capoc.org · 11870 Monarch Street, Garden Grove 92841 · https://www.capoc.org. Runs the OC Food Bank and the CAP OC Diaper Bank. **Contact for the latest diaper partner list.**
-- Orange County Social Services Agency (CalFresh): [link]
+- Orange County Social Services Agency (CalFresh, Medi-Cal, CalWORKs, General Relief): https://benefitscal.com · Call Center 800-281-9799. See [[CalFresh]].
 - OC Food Help free food map (cited on the Westminster FRC flyer): ocfoodhelp.org/orange-county-free-food-map/
 
 ## Change Log

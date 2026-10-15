@@ -57,8 +57,9 @@ Benefits help, housing help, and crisis support for veterans and their families.
 ### 1736 Family Crisis Center – Veterans Services
 - **What they do:** Rental assistance, case management, and financial planning for veterans who are homeless or at risk.
 - **Address:** 888 W. Santa Ana Blvd., Suite 200, Santa Ana, CA 92701
-- **Phone:** 424-772-5668 (Central and North guides); 866-249-2557 (South guide)
-- **Notes:** Monday–Friday, 8:00 AM–4:00 PM. The pocket guides list two different phone numbers; call either.
+- **Phone:** 424-772-5668
+- **Website:** https://www.1736fcc.org
+- **Notes:** Monday–Friday, 8:00 AM–4:00 PM. Phone confirmed on County and City of Garden Grove lists (2026-10-05). The South County pocket guide lists 866-249-2557, which may be an older number.
 - **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
 
 ## Crisis Support
