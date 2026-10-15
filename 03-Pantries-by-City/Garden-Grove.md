@@ -5,7 +5,7 @@ city: Garden Grove
 region: Orange County, CA
 zip_codes: [92840, 92841, 92843, 92844]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025); organization websites checked 2026-10-03]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025); organization websites and County Pocket Guide (5/2025) checked 2026-10-03]
 tags: [food-pantry, garden-grove, orange-county]
 ---
 
@@ -20,7 +20,7 @@ tags: [food-pantry, garden-grove, orange-county]
 
 ## Quick Summary
 
-This file lists 18 sites in Garden Grove from the Second Harvest partner list: 8 community food pantries, 5 school-site distributions, 1 senior grocery site, 1 Park-it Market site, 3 kids meal sites.
+This file lists 19 sites in Garden Grove (1 from organization websites or the County Pocket Guide, the rest from the Second Harvest partner list): 9 community food pantries, 5 school-site distributions, 1 senior grocery site, 1 Park-it Market site, 3 kids meal sites.
 
 - **Days with food distribution (excluding kids meal sites):** Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
 - **Weekend options:** St. Columban SVDP, Village Bible Church
@@ -40,6 +40,17 @@ Churches, nonprofits, and community centers that hand out groceries.
 - **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
 - **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
+
+### First Presbyterian Church of Garden Grove
+- **Address:** 11832 Euclid St., Garden Grove, CA 92840
+- **Phone:** 714-534-2269
+- **Days and hours:**
+  - Every Tuesday: 6:30 AM–8:30 AM
+  - Every Thursday: 6:30 AM–8:30 AM
+- **Notes:** Breakfast Tuesdays and Thursdays 6:30–8:30 AM. Hot meal, sack lunch, and showers available 6:30 AM–12:00 PM.
+- **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
+- **Source:** County of Orange Pocket Guide Resource Directory (updated 5/13/2025). Not on the Second Harvest partner list dated 09/14/2026.
 
 ### Helping Others Prepare for Eternity (H.O.P.E.)
 - **Address:** 11022 Acacia Pkwy #C, Garden Grove 92840

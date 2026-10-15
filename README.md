@@ -28,6 +28,8 @@ Start with `03-Pantries-by-City/_Index.md` for a list of all cities.
 | Community Action Partnership of Orange County (CAP OC) Diaper Bank partner list | Read from capoc.org on 10/03/2026 |
 | Community resources spreadsheet (recreation of the RCOC community resources list) | 2026 |
 | Legal Resources list (Orange County and surrounding area) | 2026 |
+| County of Orange Pocket Guide Resource Directories (Central, North, South SPAs) | Updated 5/13/2025 |
+| Dayle McIntosh Center Housing Resources list | 2024 |
 | Individual organization websites (used to check conflicts and fix errors) | Checked 10/03/2026 |
 
 Each site entry names its source. When two sources disagree, the newer source is shown first and the other version is listed underneath, marked as a conflict.

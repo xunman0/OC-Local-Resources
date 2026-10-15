@@ -5,7 +5,7 @@ city: Costa Mesa
 region: Orange County, CA
 zip_codes: [92627]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025); organization websites checked 2026-10-03]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025); organization websites and County Pocket Guide (5/2025) checked 2026-10-03]
 tags: [food-pantry, costa-mesa, orange-county]
 ---
 
@@ -20,10 +20,10 @@ tags: [food-pantry, costa-mesa, orange-county]
 
 ## Quick Summary
 
-This file lists 6 sites in Costa Mesa from the Second Harvest partner list: 2 community food pantries, 3 school-site distributions, 1 senior grocery site.
+This file lists 7 sites in Costa Mesa (1 from organization websites or the County Pocket Guide, the rest from the Second Harvest partner list): 3 community food pantries, 3 school-site distributions, 1 senior grocery site.
 
-- **Days with food distribution (excluding kids meal sites):** Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
-- **Weekend options:** Christ Lutheran Church and School
+- **Days with food distribution (excluding kids meal sites):** Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+- **Weekend options:** Christ Lutheran Church and School, Someone Cares Soup Kitchen
 - **Evening options (open past 5 PM):** None listed
 
 ## Community Food Pantries
@@ -65,6 +65,22 @@ Churches, nonprofits, and community centers that hand out groceries.
   - Monday–Friday: 8:00 AM–4:30 PM; Wednesday closed 12:00–2:00 PM
   - Requirement: Registration forms required
   - The difference between sources was checked on the website. See the ✅ section above.
+
+### Someone Cares Soup Kitchen
+- **Address:** 720 W. 19th St., Costa Mesa, CA 92627
+- **Phone:** 949-548-8861
+- **Days and hours:**
+  - Every Monday: 12:00 PM–3:00 PM
+  - Every Tuesday: 12:00 PM–3:00 PM
+  - Every Wednesday: 12:00 PM–3:00 PM
+  - Every Thursday: 12:00 PM–3:00 PM
+  - Every Friday: 12:00 PM–3:00 PM
+  - Every Saturday: 9:00 AM–11:00 AM
+  - Every Sunday: 9:00 AM–11:00 AM
+- **Notes:** Hot meals. Breakfast Saturday and Sunday 9:00–11:00 AM; lunch Monday–Friday 12:00–3:00 PM.
+- **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
+- **Source:** County of Orange Pocket Guide Resource Directory (updated 5/13/2025). Not on the Second Harvest partner list dated 09/14/2026.
 
 ## School-Site Distributions
 

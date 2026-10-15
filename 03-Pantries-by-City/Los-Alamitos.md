@@ -5,7 +5,7 @@ city: Los Alamitos
 region: Orange County, CA
 zip_codes: [90720]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); organization websites checked 2026-10-03]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); organization websites and County Pocket Guide (5/2025) checked 2026-10-03]
 tags: [food-pantry, los-alamitos, orange-county]
 ---
 
@@ -20,9 +20,9 @@ tags: [food-pantry, los-alamitos, orange-county]
 
 ## Quick Summary
 
-This file lists 2 sites in Los Alamitos from the Second Harvest partner list: 1 community food pantry, 1 senior grocery site.
+This file lists 3 sites in Los Alamitos (1 from organization websites or the County Pocket Guide, the rest from the Second Harvest partner list): 2 community food pantries, 1 senior grocery site.
 
-- **Days with food distribution (excluding kids meal sites):** Tuesday, Saturday
+- **Days with food distribution (excluding kids meal sites):** Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
 - **Weekend options:** Heart of the City
 - **Evening options (open past 5 PM):** None listed
 
@@ -42,6 +42,20 @@ Churches, nonprofits, and community centers that hand out groceries.
 - **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
 - **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
+
+### We Care of Los Alamitos
+- **Address:** 3788 Cerritos Ave., Los Alamitos, CA 90720
+- **Phone:** 562-598-9790
+- **Days and hours:**
+  - Every Monday: 10:00 AM–2:00 PM
+  - Every Tuesday: 10:00 AM–2:00 PM
+  - Every Wednesday: 10:00 AM–2:00 PM
+  - Every Thursday: 10:00 AM–2:00 PM
+  - Every Friday: 10:00 AM–2:00 PM
+- **Notes:** By appointment. Perishable and non-perishable groceries.
+- **Who can use it:** Open to the public as far as the source shows. Appointment needed on at least some days.
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
+- **Source:** County of Orange Pocket Guide Resource Directory (updated 5/13/2025). Not on the Second Harvest partner list dated 09/14/2026.
 
 ## Senior Grocery Sites
 

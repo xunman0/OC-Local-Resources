@@ -5,7 +5,7 @@ city: Irvine
 region: Orange County, CA
 zip_codes: [92602, 92603, 92612, 92618, 92620]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025); organization websites checked 2026-10-03]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025); organization websites and County Pocket Guide (5/2025) checked 2026-10-03]
 tags: [food-pantry, irvine, orange-county]
 ---
 
@@ -20,7 +20,7 @@ tags: [food-pantry, irvine, orange-county]
 
 ## Quick Summary
 
-This file lists 8 sites in Irvine (1 from organization websites, the rest from the Second Harvest partner list): 4 community food pantries, 3 senior grocery sites, 1 Park-it Market site.
+This file lists 8 sites in Irvine (1 from organization websites or the County Pocket Guide, the rest from the Second Harvest partner list): 4 community food pantries, 3 senior grocery sites, 1 Park-it Market site.
 
 - **Days with food distribution (excluding kids meal sites):** Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
 - **Weekend options:** St. Elizabeth Ann Seton SVDP

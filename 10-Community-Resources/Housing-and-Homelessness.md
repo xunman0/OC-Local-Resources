@@ -4,13 +4,15 @@ type: community-resource-list
 region: Orange County, CA
 audience: general public
 source_date: 2026
-sources: [RCOC community resources spreadsheet (Community Resources 2026)]
+sources: [County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025); RCOC community resources spreadsheet (Community Resources 2026)]
 tags: [community-resources, housing-and-homelessness, orange-county]
 ---
 
 # Housing and Homelessness
 
 Rental assistance, housing authorities, fair housing, homelessness help, and care facility licensing.
+
+**Facing eviction or about to lose housing?** See [[Homelessness-Prevention-for-Families]] for a step-by-step guide.
 
 **Status:** copied from source lists dated 2026. Not yet checked with each organization.
 
@@ -22,7 +24,8 @@ Rental assistance, housing authorities, fair housing, homelessness help, and car
 - Homelessness: Family Solutions Collaborative Access Point Network
 - Housing Authorities and Rental Assistance: Anaheim Housing Authority, Garden Grove Housing Authority, Orange County Housing Authority, Santa Ana Housing Authority
 - Care Facility Licensing: California Department of Public Health – Licensing and Certification, Community Care Licensing (CA Department of Social Services)
-- Housing Information and Rights: Fair Housing Council of OC, U.S. Department of Housing and Urban Development (HUD) – Santa Ana Office, Innovative Housing Opportunities
+- Housing Information and Rights: Fair Housing Council of OC, U.S. Department of Housing and Urban Development (HUD) – Santa Ana Office, Innovative Housing Opportunities, Fair Housing Foundation
+- Emergency Shelter – Individuals (Referral Only): Yale Navigation Center, Bridges at Kraemer Place (Mercy House), Anaheim Emergency Shelter, Costa Mesa Bridge Shelter, Huntington Beach Navigation Center, Tustin Temporary Emergency Shelter, Friendship Shelter
 
 ## Homelessness
 
@@ -112,6 +115,62 @@ Rental assistance, housing authorities, fair housing, homelessness help, and car
 - **Phone:** 949-863-9740
 - **Website:** https://www.innovativehousing.com
 - **Source:** RCOC community resources spreadsheet (Community Resources 2026)
+
+### Fair Housing Foundation
+- **What they do:** Fair housing and tenant-landlord help.
+- **Phone:** 800-446-3247
+- **Website:** https://www.fairhousingfoundation.com
+- **Notes:** Separate organization from the Fair Housing Council of Orange County.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+## Emergency Shelter – Individuals (Referral Only)
+
+### Yale Navigation Center
+- **What they do:** Emergency shelter for up to 425 individuals, with supportive services.
+- **Address:** 2229 S. Yale St., Santa Ana, CA 92704
+- **Phone:** Referral information: 714-785-9889
+- **Notes:** **By referral only.**
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Bridges at Kraemer Place (Mercy House)
+- **What they do:** 24-hour emergency shelter for individuals, focused on creating a housing plan.
+- **Phone:** 714-836-7188
+- **Email:** info@mercyhouse.net
+- **Notes:** **By referral only.** In Anaheim.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Anaheim Emergency Shelter
+- **What they do:** 24-hour emergency shelter for individuals, focused on a housing plan and connections to housing.
+- **Phone:** 657-999-2430
+- **Notes:** **Referral through City Net.**
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Costa Mesa Bridge Shelter
+- **What they do:** City of Costa Mesa shelter run with Mercy House, with case management aimed at finding housing.
+- **Phone:** Referral: 714-754-5346
+- **Email:** nhscostamesa@costamesaca.gov
+- **Notes:** **By referral only.**
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Huntington Beach Navigation Center
+- **What they do:** Low-barrier emergency shelter.
+- **Phone:** Referral: 714-536-5576
+- **Email:** PHTF-CaseManagers@HBPD.org
+- **Notes:** **By referral only.**
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Tustin Temporary Emergency Shelter
+- **What they do:** 24-hour emergency shelter for individuals and families with ties to Tustin, focused on self-sufficiency.
+- **Phone:** Tustin Police Department: 714-338-0698
+- **Notes:** **Referrals by Tustin Police Department only.**
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Friendship Shelter
+- **What they do:** Rehabilitative shelter and services for people without children, aimed at self-sufficiency.
+- **Phone:** 949-494-6928
+- **Website:** https://friendshipshelter.org
+- **Notes:** **By referral.** Intake on Wednesdays at 10:30 AM. South County (Laguna Beach area).
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
 
 ## If Nothing Here Fits
 

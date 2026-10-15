@@ -5,7 +5,7 @@ city: Laguna Niguel
 region: Orange County, CA
 zip_codes: [92677]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); organization websites and County Pocket Guide (5/2025) checked 2026-10-03]
 tags: [food-pantry, laguna-niguel, orange-county]
 ---
 
@@ -20,11 +20,11 @@ tags: [food-pantry, laguna-niguel, orange-county]
 
 ## Quick Summary
 
-This file lists 2 sites in Laguna Niguel from the Second Harvest partner list: 2 community food pantries.
+This file lists 3 sites in Laguna Niguel (1 from organization websites or the County Pocket Guide, the rest from the Second Harvest partner list): 3 community food pantries.
 
-- **Days with food distribution (excluding kids meal sites):** Monday, Wednesday, Thursday
+- **Days with food distribution (excluding kids meal sites):** Monday, Wednesday, Thursday, Friday
 - **Weekend options:** None listed
-- **Evening options (open past 5 PM):** None listed
+- **Evening options (open past 5 PM):** Mercy Warehouse
 
 ## Community Food Pantries
 
@@ -41,6 +41,18 @@ Churches, nonprofits, and community centers that hand out groceries.
 - **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
 - **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
+
+### Mercy Warehouse
+- **Address:** 27632 El Lazo, Laguna Niguel, CA 92677
+- **Phone:** 949-910-0024
+- **Official website (check hours here):** https://mercywarehouse.com
+- **Days and hours:**
+  - Every Monday: 4:00 PM–6:00 PM
+  - Every Wednesday: 12:00 PM–2:00 PM
+  - Every Friday: 12:00 PM–2:00 PM
+- **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
+- **Source:** County of Orange Pocket Guide Resource Directory (updated 5/13/2025). Not on the Second Harvest partner list dated 09/14/2026.
 
 ### St. Timothy Catholic Church
 - **Address:** 29102 Crown Valley, Laguna Niguel 92677

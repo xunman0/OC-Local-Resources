@@ -32,6 +32,9 @@ This knowledge base helps people in Orange County, California find free or low-c
 | 10-Community-Resources | Non-food help: legal, immigration, disability, benefits, healthcare, mental health, housing, family resource centers, seniors, transportation |
 | 99-Sources-and-Verification | Source list and verification log |
 
+## Project Report
+See [[Project-Report]] for how this knowledge base was built, the sources used, key corrections, and open items.
+
 ## Rules for Every File
 1. **One topic per file.** Each file should answer one kind of question well.
 2. **Frontmatter is required.** Every file includes `title`, `type`, `last_verified`, and `sources`.

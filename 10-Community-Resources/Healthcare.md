@@ -4,7 +4,7 @@ type: community-resource-list
 region: Orange County, CA
 audience: general public
 source_date: 2026
-sources: [RCOC community resources spreadsheet (Community Resources 2026)]
+sources: [County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025); RCOC community resources spreadsheet (Community Resources 2026)]
 tags: [community-resources, healthcare, orange-county]
 ---
 
@@ -22,7 +22,7 @@ Health insurance, clinics, dental, vision, and specialty care.
 - Health Insurance: CalOptima, CalOptima Community Liaison for RCOC, Medi-Cal, Medicare
 - Finding Care: Coalition of Orange County Health Centers, National Alliance for Hispanic Health Helpline, Orange County Medical Association (website)
 - Dental and Vision: Medi-Cal Dental (formerly Denti-Cal), Healthy Smiles for Kids of Orange County, VSP Vision Care
-- Clinics: Lestonnac Free Clinic, Planned Parenthood – Orange
+- Clinics: Lestonnac Free Clinic, Planned Parenthood – Orange, Serve the People Community Health Center, Share Our Selves (SOS) Community Health Center, UCI Health Family Health Center – Santa Ana, UCI Health Family Health Center – Anaheim, Family Health Matters Community Health Center, Camino Health Center, Laguna Beach Community Clinic
 - Specialty Care: Shriners Children's Southern California
 
 ## Health Insurance
@@ -123,6 +123,62 @@ Health insurance, clinics, dental, vision, and specialty care.
 - **Phone:** 714-922-4100
 - **Website:** https://www.plannedparenthood.org
 - **Source:** RCOC community resources spreadsheet (Community Resources 2026)
+
+### Serve the People Community Health Center
+- **What they do:** Primary care, dental care, and vision screening.
+- **Address:** 1206 E. 17th St., Suite 101, Santa Ana, CA 92701
+- **Phone:** 714-352-2911
+- **Website:** https://www.servethepeople.org
+- **Notes:** By appointment. Also runs a food pantry; see [[Santa-Ana]].
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Share Our Selves (SOS) Community Health Center
+- **What they do:** Primary care and specialty care for established patients.
+- **Address:** 1550 Superior Ave., Costa Mesa, CA 92627
+- **Phone:** 949-270-2100
+- **Website:** https://www.shareourselves.org
+- **Notes:** Also runs a food pantry; see [[Costa-Mesa]].
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### UCI Health Family Health Center – Santa Ana
+- **What they do:** Primary care clinic.
+- **Address:** 800 N. Main St., Santa Ana, CA 92701
+- **Phone:** 657-282-6355
+- **Website:** https://www.ucihealth.org
+- **Notes:** Monday–Friday 7:30 AM–8:00 PM; Saturday 8:00 AM–5:00 PM. Also home to the UCI Adult Primary Care Down Syndrome Clinic (see [[Disability-Services]]).
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### UCI Health Family Health Center – Anaheim
+- **What they do:** Primary care, including pharmacy and lab services.
+- **Address:** 2441 W. La Palma Ave., Suite 100, Anaheim, CA 92801
+- **Phone:** 657-828-6356
+- **Website:** https://www.ucihealth.org
+- **Notes:** Monday–Friday 7:30 AM–8:00 PM; Saturday 8:00 AM–5:00 PM.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Family Health Matters Community Health Center
+- **What they do:** Preventive and primary health care.
+- **Address:** 1182 N. Euclid St., Anaheim, CA 92801
+- **Phone:** 714-441-0411
+- **Website:** https://fhm-chc.org
+- **Notes:** Monday–Saturday, 8:00 AM–5:00 PM.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Camino Health Center
+- **What they do:** Family medical care plus behavioral health: assessments, psychiatric medication evaluation, and brief counseling.
+- **Address:** Lake Forest: 22481 Aspan St., Suite A, Lake Forest, CA 92630 · San Juan Capistrano: 30300 Camino Capistrano, San Juan Capistrano, CA 92675 · San Clemente: 1300 Avenida Vista Hermosa, Suite 250, San Clemente, CA 92673
+- **Phone:** 949-240-2272
+- **Website:** https://caminohealthcenter.org
+- **Notes:** Hours vary by clinic, including some evenings and Saturdays. Call for current hours.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Laguna Beach Community Clinic
+- **What they do:** Primary care and specialty medical services.
+- **Address:** 362 3rd St., Laguna Beach, CA 92651
+- **Phone:** 949-494-0761
+- **Website:** https://lbclinic.org
+- **Notes:** Monday–Friday 8:00 AM–5:00 PM; Saturday 8:00 AM–12:00 PM.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
 
 ## Specialty Care
 

@@ -5,7 +5,7 @@ city: Huntington Beach
 region: Orange County, CA
 zip_codes: [92647, 92649]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025); organization websites checked 2026-10-03]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); City of Westminster FRC Local Food Pantries flyer (undated; file created 10/29/2025); organization websites and County Pocket Guide (5/2025) checked 2026-10-03]
 tags: [food-pantry, huntington-beach, orange-county]
 ---
 

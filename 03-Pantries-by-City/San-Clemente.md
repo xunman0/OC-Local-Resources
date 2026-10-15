@@ -5,7 +5,7 @@ city: San Clemente
 region: Orange County, CA
 zip_codes: [92672, 92673]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); organization websites checked 2026-10-03]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); organization websites and County Pocket Guide (5/2025) checked 2026-10-03]
 tags: [food-pantry, san-clemente, orange-county]
 ---
 
@@ -20,7 +20,7 @@ tags: [food-pantry, san-clemente, orange-county]
 
 ## Quick Summary
 
-This file lists 7 sites in San Clemente (1 from organization websites, the rest from the Second Harvest partner list): 3 community food pantries, 3 senior grocery sites, 1 kids meal site.
+This file lists 7 sites in San Clemente (1 from organization websites or the County Pocket Guide, the rest from the Second Harvest partner list): 3 community food pantries, 3 senior grocery sites, 1 kids meal site.
 
 - **Days with food distribution (excluding kids meal sites):** Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
 - **Weekend options:** COA - Community Outreach Alliance

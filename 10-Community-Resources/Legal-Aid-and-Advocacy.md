@@ -4,7 +4,7 @@ type: community-resource-list
 region: Orange County, CA
 audience: general public
 source_date: 2026
-sources: [Legal Resources list (Orange County and surrounding area); RCOC community resources spreadsheet (Community Resources 2026)]
+sources: [County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025); Legal Resources list (Orange County and surrounding area); RCOC community resources spreadsheet (Community Resources 2026)]
 tags: [community-resources, legal-aid-and-advocacy, orange-county]
 ---
 
@@ -19,7 +19,7 @@ Free or low-cost legal help, disability rights advocacy, and complaint and overs
 
 ## In This File
 
-- Legal Help: Community Legal Aid SoCal (formerly Legal Aid Society of Orange County), Public Law Center, Child Care Law Center
+- Legal Help: Community Legal Aid SoCal (formerly Legal Aid Society of Orange County), Public Law Center, Child Care Law Center, Orange County Bar Association – Lawyer Referral and Information Service
 - Disability Rights: Disability Rights California (Clients' Rights Advocate)
 - Oversight and Complaints: Long-Term Care Ombudsman
 
@@ -31,6 +31,7 @@ Free or low-cost legal help, disability rights advocacy, and complaint and overs
 - **Address:** 2101 N. Tustin Ave., Santa Ana, CA 92705
 - **Phone:** 714-571-5200; 800-834-5001
 - **Website:** https://www.communitylegalsocal.org
+- **Notes:**  Offices include Santa Ana (2101 N. Tustin Ave.) and Anaheim (250 E. Center St., Anaheim, CA 92805). Monday–Friday, 9:00 AM–5:00 PM. Also offers expungement clinics (County Pocket Guide, 5/2025).
 - **Source:** RCOC community resources spreadsheet (Community Resources 2026); Legal Resources list (Orange County and surrounding area)
 
 ### Public Law Center
@@ -49,6 +50,13 @@ Free or low-cost legal help, disability rights advocacy, and complaint and overs
 - **Website:** https://www.childcarelaw.org
 - **Notes:** Statewide organization based in San Francisco, outside Orange County.
 - **Source:** RCOC community resources spreadsheet (Community Resources 2026)
+
+### Orange County Bar Association – Lawyer Referral and Information Service
+- **What they do:** Affordable legal help, lawyer referrals, and legal information.
+- **Phone:** 949-440-6747
+- **Website:** https://lrisoc.org
+- **Notes:** Monday–Friday, 8:30 AM–5:00 PM. Unlike legal aid, lawyers through this service may charge a fee.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
 
 ## Disability Rights
 

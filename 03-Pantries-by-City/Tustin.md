@@ -5,7 +5,7 @@ city: Tustin
 region: Orange County, CA
 zip_codes: [92705, 92780]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); organization websites checked 2026-10-03]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); organization websites and County Pocket Guide (5/2025) checked 2026-10-03]
 tags: [food-pantry, tustin, orange-county]
 ---
 

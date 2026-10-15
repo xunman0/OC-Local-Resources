@@ -4,7 +4,7 @@ type: community-resource-list
 region: Orange County, CA
 audience: general public
 source_date: 2026
-sources: [RCOC community resources spreadsheet (Community Resources 2026)]
+sources: [County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025); RCOC community resources spreadsheet (Community Resources 2026)]
 tags: [community-resources, mental-health-and-crisis, orange-county]
 ---
 
@@ -19,9 +19,11 @@ Mental health services, crisis lines, and abuse reporting hotlines.
 
 ## In This File
 
-- Mental Health Services: Child Guidance Center, Children & Youth Behavioral Health (County of Orange), NAMI Orange County (National Alliance on Mental Illness), USC Telebehavioral Health Online Clinic, Western Youth Services
-- Crisis Lines: Crisis & Suicide Prevention Hotline
+- Mental Health Services: Child Guidance Center, Children & Youth Behavioral Health (County of Orange), NAMI Orange County (National Alliance on Mental Illness), USC Telebehavioral Health Online Clinic, Western Youth Services, OC Links (OC Health Care Agency), OC Outreach & Engagement (OC Health Care Agency)
+- Crisis Lines: Crisis & Suicide Prevention Hotline, OC WarmLine, 988 Suicide & Crisis Lifeline, The Trevor Project, National Domestic Violence Hotline, National Sexual Assault Hotline
 - Abuse Reporting: Adult Protective Services (APS), Child Protective Services (CPS)
+- Recovery Support: Alcoholics Anonymous – Orange County, Narcotics Anonymous – Orange County
+- Domestic Violence Shelters and Services: Radiant Futures, Human Options, Interval House, Laura's House
 
 ## Mental Health Services
 
@@ -64,6 +66,19 @@ Mental health services, crisis lines, and abuse reporting hotlines.
 - **Website:** https://www.westernyouthservices.org
 - **Source:** RCOC community resources spreadsheet (Community Resources 2026)
 
+### OC Links (OC Health Care Agency)
+- **What they do:** Entry point for county mental health and substance use services: information, referrals, screening, crisis response, and homeless outreach. Also the line for the Crisis Assessment Team and OC4Vets.
+- **Phone:** 855-OC-LINKS (855-625-4657), 24/7
+- **Website:** https://www.ochealthinfo.com/oclinks
+- **Notes:** Live chat available on the website. For county services online, see also https://ocnavigator.org.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### OC Outreach & Engagement (OC Health Care Agency)
+- **What they do:** Outreach team for people at risk of or struggling with homelessness, mental health, or substance use problems.
+- **Phone:** 800-364-2221
+- **Notes:** Monday–Friday, 8:00 AM–5:00 PM.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
 ## Crisis Lines
 
 ### Crisis & Suicide Prevention Hotline
@@ -73,6 +88,37 @@ Mental health services, crisis lines, and abuse reporting hotlines.
 - **Phone:** 877-727-4747
 - **Notes:** **In a crisis, you can also call or text 988** (Suicide & Crisis Lifeline), available 24/7.
 - **Source:** RCOC community resources spreadsheet (Community Resources 2026)
+
+### OC WarmLine
+- **What they do:** Free phone and text support for anyone with mental health or substance use concerns, who is lonely, or who needs information. Not a crisis line.
+- **Phone:** Call or text 714-991-6412; toll-free 877-910-WARM (9276)
+- **Notes:** 24/7.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### 988 Suicide & Crisis Lifeline
+- **What they do:** Free, confidential support for anyone in crisis or having suicidal thoughts.
+- **Phone:** Call or text 988
+- **Website:** https://988lifeline.org
+- **Notes:** 24/7.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### The Trevor Project
+- **What they do:** Crisis support and information for LGBTQ young people.
+- **Phone:** 866-488-7386; text 678678
+- **Website:** https://www.thetrevorproject.org
+- **Notes:** 24/7.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### National Domestic Violence Hotline
+- **Phone:** 800-799-7233
+- **Website:** https://www.thehotline.org
+- **Notes:** 24/7. See also [[Homelessness-Prevention-for-Families]] for local domestic violence shelters.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### National Sexual Assault Hotline
+- **Phone:** 800-656-4673
+- **Notes:** 24/7.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
 
 ## Abuse Reporting
 
@@ -89,6 +135,42 @@ Mental health services, crisis lines, and abuse reporting hotlines.
 - **Phone:** 800-207-4464 (hotline)
 - **Website:** https://www.cdss.ca.gov
 - **Source:** RCOC community resources spreadsheet (Community Resources 2026)
+
+## Recovery Support
+
+### Alcoholics Anonymous – Orange County
+- **Phone:** 949-582-2697
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Narcotics Anonymous – Orange County
+- **Phone:** 714-590-2388
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+## Domestic Violence Shelters and Services
+
+### Radiant Futures
+- **What they do:** Emergency shelter or emergency relocation, empowerment program, and counseling for survivors.
+- **Phone:** 877-531-5522
+- **Website:** https://radiantfutures.org
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Human Options
+- **What they do:** Emergency safe house, crisis help, counseling, legal advocacy, support, and parenting classes for survivors.
+- **Phone:** 877-854-3594
+- **Website:** https://humanoptions.org
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Interval House
+- **What they do:** Emergency shelter, transitional housing, rapid rehousing, and support for survivors.
+- **Phone:** 714-891-8121
+- **Website:** https://intervalhouse.org
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Laura's House
+- **What they do:** Emergency shelter, legal advocacy, counseling, and support services for survivors.
+- **Phone:** 866-498-1511
+- **Website:** https://laurashouse.org
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
 
 ## If Nothing Here Fits
 

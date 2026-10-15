@@ -4,7 +4,7 @@ type: community-resource-list
 region: Orange County, CA
 audience: general public
 source_date: 2026
-sources: [RCOC community resources spreadsheet (Community Resources 2026)]
+sources: [County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025); RCOC community resources spreadsheet (Community Resources 2026)]
 tags: [community-resources, benefits-and-financial-help, orange-county]
 ---
 
@@ -19,12 +19,12 @@ Applying for public benefits, Social Security, disability savings, utility disco
 
 ## In This File
 
-- Applying for Benefits: BenefitsCal, Disability Benefits 101 (website)
+- Applying for Benefits: BenefitsCal, Disability Benefits 101 (website), County of Orange Social Services Agency (SSA) – Regional Offices
 - In-Home Help: In-Home Supportive Services (IHSS)
-- Social Security: Social Security Administration (SSA), Social Security Disability Starter Kit (website), Supplemental Security Income (SSI)
+- Social Security: Social Security Administration (SSA), Social Security Disability Starter Kit (website), Supplemental Security Income (SSI), Social Security Administration – Orange County Offices
 - Bill Discounts: Southern California Edison CARE Program
 - Nutrition: WIC (Women, Infants & Children) – Orange County
-- Work and Employment: WIPA (Work Incentives Planning & Assistance), Department of Rehabilitation (DOR)
+- Work and Employment: WIPA (Work Incentives Planning & Assistance), Department of Rehabilitation (DOR), OC Workforce Solutions, Anaheim Workforce Connection, Chrysalis, Working Wardrobes for a New Start – Career Success Center
 - Money and Savings: Free Tax Help (VITA – Volunteer Income Tax Assistance), CalABLE, Jewish Free Loan Association
 
 ## Applying for Benefits
@@ -40,6 +40,14 @@ Applying for public benefits, Social Security, disability savings, utility disco
 - **Who it serves:** Public, private and non profit direct service organizations or anyone living with a disability
 - **Website:** https://www.db101.org
 - **Source:** RCOC community resources spreadsheet (Community Resources 2026)
+
+### County of Orange Social Services Agency (SSA) – Regional Offices
+- **What they do:** Apply for and get help with CalFresh, Medi-Cal, CalWORKs, and General Relief (GR) in person.
+- **Address:** Anaheim: 3320 E. La Palma Ave., Anaheim, CA 92806 · Brea: 675 Placentia Ave., Suite 100, Brea, CA 92821 · Garden Grove: 12912 Brookhurst St., Suite 100, Garden Grove, CA 92840 · Santa Ana: 1928 S. Grand Ave., Building B, Santa Ana, CA 92705 · Laguna Hills: 23330 Moulton Pkwy., Laguna Hills, CA 92653
+- **Phone:** SSA Call Center: 800-281-9799 (Mon–Fri 7:30 AM–5:00 PM); Anaheim office 714-575-2400; Garden Grove and Santa Ana offices 714-435-5800
+- **Website:** https://benefitscal.com
+- **Notes:** Office hours Monday–Friday, 8:00 AM–5:00 PM. General Relief information: https://ssa.ocgov.com/calfresh/apply/general
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
 
 ## In-Home Help
 
@@ -72,6 +80,13 @@ Applying for public benefits, Social Security, disability savings, utility disco
 - **Website:** https://www.ssa.gov
 - **Notes:** Administered by the Social Security Administration.
 - **Source:** RCOC community resources spreadsheet (Community Resources 2026)
+
+### Social Security Administration – Orange County Offices
+- **Address:** Anaheim: 900 S. Harbor Blvd., Anaheim, CA 92805 · Brea: 3230 E. Imperial Hwy., Suite 150, Brea, CA 92821 · Garden Grove: 11900 Gilbert St., Garden Grove, CA 92841 · Santa Ana: 1851 E. First St., 5th Floor, Suite 500, Santa Ana, CA 92705 · Mission Viejo: 23311 Madero, Mission Viejo, CA 92691
+- **Phone:** 800-772-1213
+- **Website:** https://www.ssa.gov
+- **Notes:** Offices open Monday–Friday, 9:00 AM–4:00 PM. Call first; many services are by appointment.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
 
 ## Bill Discounts
 
@@ -106,6 +121,38 @@ Applying for public benefits, Social Security, disability savings, utility disco
 - **Phone:** 714-662-6030 (Santa Ana Office)
 - **Website:** https://www.dor.ca.gov
 - **Source:** RCOC community resources spreadsheet (Community Resources 2026)
+
+### OC Workforce Solutions
+- **What they do:** Job search help and career services for people who need help with employability skills.
+- **Address:** Brea: 675 Placentia Ave., Suite 330, Brea, CA 92821 · Laguna Niguel: 28202 Cabot Rd., Suite 140, Laguna Niguel, CA 92677 · Santa Ana WORK Center: 801 W. Civic Center Dr., Suite 200, Santa Ana, CA 92701
+- **Phone:** 866-500-6587; Santa Ana WORK Center 714-565-2600
+- **Website:** https://www.ocworkforcesolutions.com
+- **Notes:** Brea and Laguna Niguel: Monday–Friday 9:00 AM–6:00 PM, Saturday 9:00 AM–1:00 PM. Santa Ana: Monday–Friday 8:00 AM–5:00 PM.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Anaheim Workforce Connection
+- **What they do:** Workforce development, job search help, and vocational and computer training.
+- **Address:** 201 S. Anaheim Blvd., 2nd Floor, Anaheim, CA 92805
+- **Phone:** 714-765-4350
+- **Website:** https://www.anaheim.net/6117/Anaheim-Workforce-Connection
+- **Notes:** Monday–Friday, 8:00 AM–5:00 PM.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Chrysalis
+- **What they do:** Virtual and in-person help finding jobs and job training.
+- **Address:** 290 S. Anaheim Blvd., Anaheim, CA 92805
+- **Phone:** 714-204-3000
+- **Website:** https://changelives.org
+- **Notes:** Monday–Thursday 8:00 AM–12:00 PM and 1:00–4:00 PM; Friday 8:00 AM–12:00 PM.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
+
+### Working Wardrobes for a New Start – Career Success Center
+- **What they do:** Career center with a computer lab and classes, help with online applications and resumes, career coaching, and certified job skills training.
+- **Address:** 2000 E. McFadden Ave., Santa Ana, CA 92705
+- **Phone:** 714-210-2460
+- **Website:** https://workingwardrobes.org
+- **Notes:** Monday–Friday, 8:00 AM–5:00 PM.
+- **Source:** County of Orange Pocket Guide Resource Directory (Central, North, South SPAs; updated 5/13/2025)
 
 ## Money and Savings
 

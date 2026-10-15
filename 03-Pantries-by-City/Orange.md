@@ -5,7 +5,7 @@ city: Orange
 region: Orange County, CA
 zip_codes: [92865, 92866, 92867, 92868, 92869]
 last_verified: 2026-09-14
-sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); organization websites checked 2026-10-03]
+sources: [Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026); organization websites and County Pocket Guide (5/2025) checked 2026-10-03]
 tags: [food-pantry, orange, orange-county]
 ---
 
@@ -20,7 +20,7 @@ tags: [food-pantry, orange, orange-county]
 
 ## Quick Summary
 
-This file lists 19 sites in Orange from the Second Harvest partner list: 11 community food pantries, 5 school-site distributions, 2 senior grocery sites, 1 kids meal site.
+This file lists 20 sites in Orange (1 from organization websites or the County Pocket Guide, the rest from the Second Harvest partner list): 12 community food pantries, 5 school-site distributions, 2 senior grocery sites, 1 kids meal site.
 
 - **Days with food distribution (excluding kids meal sites):** Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
 - **Weekend options:** Friends Church in Orange, La Purisima Church - Trinity Guild, Son Light Christian Center, St. John's Lutheran Church of Orange, St. Norbert's Christian Service, The Hub Resource Center
@@ -155,6 +155,16 @@ Churches, nonprofits, and community centers that hand out groceries.
 - **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, call **Second Harvest at 949-653-2900** or dial 2-1-1.
 - **Partner of:** Second Harvest Food Bank of Orange County. For the latest schedule and partner list, contact Second Harvest Food Bank of Orange County: 949-653-2900, info@feedoc.org (8014 Marine Way, Irvine 92618).
 - **Source:** Second Harvest Food Bank of Orange County Partner List (as of 09/14/2026)
+
+### The Storehouse
+- **Address:** 1001 E. Lincoln Ave., Orange, CA 92865
+- **Phone:** 714-998-3181
+- **Days and hours:**
+  - Every Tuesday: 2:00 PM–5:00 PM
+  - Every Thursday: 2:00 PM–5:00 PM
+- **Who can use it:** Open to the public as far as the source shows. Requirements such as ID may still apply.
+- **Before you go:** Call to confirm hours, eligibility, and what to bring. If no phone is listed, dial 2-1-1.
+- **Source:** County of Orange Pocket Guide Resource Directory (updated 5/13/2025). Not on the Second Harvest partner list dated 09/14/2026.
 
 ## School-Site Distributions
 
